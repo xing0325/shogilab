@@ -1,0 +1,1909 @@
+{
+  "source": "https://en.wikipedia.org/w/index.php?title=Taikyoku_shogi&oldid=1378938316",
+  "rows": [
+    [
+      "King",
+      "王将 / 玉将",
+      "ōshō / gyokushō",
+      "—",
+      "",
+      ""
+    ],
+    [
+      "Crown prince",
+      "太子",
+      "taishi",
+      "King",
+      "王将",
+      "ōshō"
+    ],
+    [
+      "Great general",
+      "大将",
+      "taishō",
+      "—",
+      "",
+      ""
+    ],
+    [
+      "Gold general",
+      "金将",
+      "kinshō",
+      "Flying chariot",
+      "飛車",
+      "hisha"
+    ],
+    [
+      "Right general",
+      "右将",
+      "ushō",
+      "*Right army",
+      "右軍",
+      "ugun"
+    ],
+    [
+      "Left general",
+      "左将",
+      "sashō",
+      "*Left army",
+      "左軍",
+      "sagun"
+    ],
+    [
+      "Rear standard",
+      "後旗",
+      "kōki",
+      "Center standard",
+      "中旗",
+      "chūki"
+    ],
+    [
+      "Free king",
+      "奔王",
+      "honnō",
+      "Great general",
+      "大将",
+      "taishō"
+    ],
+    [
+      "Free dream-eater",
+      "奔獏",
+      "honbaku",
+      "Free king",
+      "奔王",
+      "honnō"
+    ],
+    [
+      "Wooden dove",
+      "鳩槃",
+      "kyūhan",
+      "—",
+      "",
+      ""
+    ],
+    [
+      "Ceramic dove",
+      "鳩盤",
+      "kyūban",
+      "—",
+      "",
+      ""
+    ],
+    [
+      "Earth dragon",
+      "地龍",
+      "chiryū",
+      "Rain dragon",
+      "雨龍",
+      "uryū"
+    ],
+    [
+      "Free demon",
+      "奔鬼",
+      "honki",
+      "Free king",
+      "奔王",
+      "honnō"
+    ],
+    [
+      "Running horse",
+      "走馬",
+      "sōma, sōba",
+      "Free demon",
+      "奔鬼",
+      "honki"
+    ],
+    [
+      "Beast cadet",
+      "獣曹",
+      "jūsō",
+      "Beast officer",
+      "獣吏",
+      "jūri"
+    ],
+    [
+      "Tengu",
+      "天狗",
+      "tengu",
+      "—",
+      "",
+      ""
+    ],
+    [
+      "Right mountain eagle",
+      "右山鷲",
+      "usanshū",
+      "Flying eagle",
+      "飛鷲",
+      "hijū"
+    ],
+    [
+      "Left mountain eagle",
+      "左山鷲",
+      "sasanshū",
+      "Flying eagle",
+      "飛鷲",
+      "hijū"
+    ],
+    [
+      "Fire demon",
+      "火鬼",
+      "kaki",
+      "*Free fire",
+      "奔火",
+      "honka"
+    ],
+    [
+      "Whale",
+      "鯨鯢",
+      "keigei",
+      "*Great whale",
+      "大鯨",
+      "daigei"
+    ],
+    [
+      "Running rabbit",
+      "走兎",
+      "sōto",
+      "Treacherous fox",
+      "隠狐",
+      "inko, onko"
+    ],
+    [
+      "White tiger",
+      "白虎",
+      "byakko",
+      "*Divine tiger",
+      "神虎",
+      "shinko"
+    ],
+    [
+      "Turtle-snake",
+      "玄武",
+      "genbu",
+      "*Divine turtle",
+      "神亀",
+      "shinki"
+    ],
+    [
+      "Incense chariot",
+      "香車",
+      "kyōsha",
+      "White foal",
+      "白駒",
+      "hakku"
+    ],
+    [
+      "Reverse chariot",
+      "反車",
+      "hensha",
+      "Whale",
+      "鯨鯢",
+      "keigei"
+    ],
+    [
+      "Fragrant elephant",
+      "香象",
+      "kōzō",
+      "*Elephant king",
+      "象王",
+      "zōō"
+    ],
+    [
+      "White elephant",
+      "白象",
+      "hakuzō",
+      "*Elephant king",
+      "象王",
+      "zōō"
+    ],
+    [
+      "Turtle dove",
+      "山鳩",
+      "sankyū",
+      "Great dove",
+      "大鳩",
+      "daikyū"
+    ],
+    [
+      "Flying swallow",
+      "飛燕",
+      "hien",
+      "Flying chariot",
+      "飛車",
+      "hisha"
+    ],
+    [
+      "Fowl officer",
+      "禽吏",
+      "kinri",
+      "*Fowl",
+      "禽鳥",
+      "kinchō"
+    ],
+    [
+      "Rain dragon",
+      "雨龍",
+      "uryū",
+      "Great dragon",
+      "大龍",
+      "dairyū"
+    ],
+    [
+      "Forest demon",
+      "森鬼",
+      "shinki",
+      "*Thunder runner",
+      "雷走",
+      "raisō"
+    ],
+    [
+      "Mountain stag",
+      "山鹿",
+      "sanroku",
+      "Great stag",
+      "大鹿",
+      "dairoku"
+    ],
+    [
+      "Running pup",
+      "走狗",
+      "sōku",
+      "*Free leopard",
+      "奔豹",
+      "honpyō"
+    ],
+    [
+      "Running serpent",
+      "走蛇",
+      "sōja",
+      "*Free serpent",
+      "奔蛇",
+      "honja"
+    ],
+    [
+      "Side serpent",
+      "横蛇",
+      "ōja",
+      "*Great shark",
+      "大鱗",
+      "dairin"
+    ],
+    [
+      "Great dove",
+      "大鳩",
+      "daikyū",
+      "Wooden dove",
+      "鳩槃",
+      "kyūhan"
+    ],
+    [
+      "Running tiger",
+      "走虎",
+      "sōko",
+      "*Free tiger",
+      "奔虎",
+      "honko"
+    ],
+    [
+      "Running bear",
+      "走熊",
+      "sōyū",
+      "*Free bear",
+      "奔熊",
+      "hon'yū"
+    ],
+    [
+      "Nature spirit",
+      "夜叉",
+      "yasha",
+      "*Heavenly tetrarch",
+      "四天",
+      "shiten"
+    ],
+    [
+      "Buddhist devil",
+      "羅刹",
+      "rasetsu",
+      "*Heavenly tetrarch",
+      "四天",
+      "shiten"
+    ],
+    [
+      "Guardian of the gods",
+      "金剛",
+      "kongō",
+      "*Heavenly tetrarch",
+      "四天",
+      "shiten"
+    ],
+    [
+      "Sumo wrestler",
+      "力士",
+      "rikishi",
+      "*Heavenly tetrarch",
+      "四天",
+      "shiten"
+    ],
+    [
+      "Silver general",
+      "銀将",
+      "ginshō",
+      "Vertical mover",
+      "竪行",
+      "shugyō"
+    ],
+    [
+      "Drunken elephant",
+      "酔象",
+      "suizō",
+      "Crown prince",
+      "太子",
+      "taishi"
+    ],
+    [
+      "Neighboring king",
+      "近王",
+      "kinnō",
+      "Front standard",
+      "前旗",
+      "zenki"
+    ],
+    [
+      "Gold chariot",
+      "金車",
+      "kinsha",
+      "*Playful parrot",
+      "遊䳇",
+      "yūmo"
+    ],
+    [
+      "Side dragon",
+      "横龍",
+      "ōryū",
+      "*Running dragon",
+      "走龍",
+      "sōryū"
+    ],
+    [
+      "Running stag",
+      "走鹿",
+      "sōroku",
+      "*Free stag",
+      "奔鹿",
+      "honroku"
+    ],
+    [
+      "Running wolf",
+      "走狼",
+      "sōrō",
+      "*Free wolf",
+      "奔狼",
+      "honrō"
+    ],
+    [
+      "Angle general",
+      "角将",
+      "kakushō",
+      "*Rain demon",
+      "霖鬼",
+      "rinki"
+    ],
+    [
+      "Flying general",
+      "飛将",
+      "hishō",
+      "*Flying crocodile",
+      "飛鰐",
+      "higaku"
+    ],
+    [
+      "Right tiger",
+      "右虎",
+      "uko",
+      "White tiger",
+      "白虎",
+      "byakko"
+    ],
+    [
+      "Left tiger",
+      "左虎",
+      "sako",
+      "Turtle-snake",
+      "玄武",
+      "genbu"
+    ],
+    [
+      "Right dragon",
+      "右龍",
+      "uryū",
+      "Blue dragon",
+      "青龍",
+      "seiryū"
+    ],
+    [
+      "Left dragon",
+      "左龍",
+      "saryū",
+      "Vermillion sparrow",
+      "朱雀",
+      "suzaku"
+    ],
+    [
+      "Beast officer",
+      "獣吏",
+      "jūri",
+      "*Beast bird",
+      "獣鳥",
+      "jūchō"
+    ],
+    [
+      "Wind dragon",
+      "風龍",
+      "fūryū",
+      "*Free dragon",
+      "奔龍",
+      "honryū"
+    ],
+    [
+      "Free pup",
+      "奔狗",
+      "honku",
+      "*Free dog",
+      "奔犬",
+      "honken"
+    ],
+    [
+      "Rushing bird",
+      "行鳥",
+      "gyōchō",
+      "Free demon",
+      "奔鬼",
+      "honki"
+    ],
+    [
+      "Old kite",
+      "古鵄",
+      "kotetsu",
+      "Tengu",
+      "天狗",
+      "tengu"
+    ],
+    [
+      "Peacock",
+      "孔雀",
+      "kujaku",
+      "Tengu",
+      "天狗",
+      "tengu"
+    ],
+    [
+      "Water dragon",
+      "水龍",
+      "suiryū",
+      "Phoenix master",
+      "鳳師",
+      "hōshi"
+    ],
+    [
+      "Fire dragon",
+      "火龍",
+      "karyū",
+      "Kirin master",
+      "麟師",
+      "rinshi"
+    ],
+    [
+      "Copper general",
+      "銅将",
+      "dōshō",
+      "Side mover",
+      "横行",
+      "ōgyō"
+    ],
+    [
+      "Phoenix master",
+      "鳳師",
+      "hōshi",
+      "—",
+      "",
+      ""
+    ],
+    [
+      "Kirin master",
+      "麟師",
+      "rinshi",
+      "—",
+      "",
+      ""
+    ],
+    [
+      "Silver chariot",
+      "銀車",
+      "ginsha",
+      "*Goose wing",
+      "鴻翼",
+      "kōyoko"
+    ],
+    [
+      "Vertical bear",
+      "竪熊",
+      "shuyū",
+      "*Free bear",
+      "奔熊",
+      "hon'yū"
+    ],
+    [
+      "Cassia horse",
+      "桂馬",
+      "keima",
+      "Side soldier",
+      "横兵",
+      "ōhei"
+    ],
+    [
+      "Pig general",
+      "豚将",
+      "tonshō",
+      "*Free pig",
+      "奔豚",
+      "honton"
+    ],
+    [
+      "Chicken general",
+      "鶏将",
+      "keishō",
+      "*Free chicken",
+      "奔鶏",
+      "honkei"
+    ],
+    [
+      "Pup general",
+      "狗将",
+      "kushō",
+      "Free pup",
+      "奔狗",
+      "honku"
+    ],
+    [
+      "Horse general",
+      "馬将",
+      "bashō",
+      "*Free horse",
+      "奔馬",
+      "honba"
+    ],
+    [
+      "Ox general",
+      "牛将",
+      "gyūshō",
+      "*Free ox",
+      "奔牛",
+      "hongyū"
+    ],
+    [
+      "Center standard",
+      "中旗",
+      "chūki",
+      "Front standard",
+      "前旗",
+      "zenki"
+    ],
+    [
+      "Side boar",
+      "横猪",
+      "ōcho",
+      "*Free boar",
+      "奔猪",
+      "honcho"
+    ],
+    [
+      "Silver rabbit",
+      "銀兎",
+      "ginto",
+      "Whale",
+      "鯨鯢",
+      "keigei"
+    ],
+    [
+      "Gold stag",
+      "金鹿",
+      "konroku",
+      "White foal",
+      "白駒",
+      "hakku"
+    ],
+    [
+      "Lion",
+      "獅子",
+      "shishi",
+      "*Furious fiend",
+      "奮迅",
+      "funjin"
+    ],
+    [
+      "Fowl cadet",
+      "禽曹",
+      "kinsō",
+      "Fowl officer",
+      "禽吏",
+      "kinri"
+    ],
+    [
+      "Great stag",
+      "大鹿",
+      "dairoku",
+      "*Free stag",
+      "奔鹿",
+      "honroku"
+    ],
+    [
+      "Fierce dragon",
+      "猛龍",
+      "mōryū",
+      "Great dragon",
+      "大龍",
+      "dairyū"
+    ],
+    [
+      "Woodland demon",
+      "林鬼",
+      "rinki",
+      "*Stone peng",
+      "石鵬",
+      "sekihō"
+    ],
+    [
+      "Vice general",
+      "副将",
+      "fukushō",
+      "Great general",
+      "大将",
+      "taishō"
+    ],
+    [
+      "Stone chariot",
+      "石車",
+      "sekisha",
+      "*Walking heron",
+      "歩䳲",
+      "fushin"
+    ],
+    [
+      "Cloud eagle",
+      "雲鷲",
+      "unjū",
+      "*Strong eagle",
+      "勁鷲",
+      "keijū"
+    ],
+    [
+      "Angle mover",
+      "角行",
+      "kakugyō",
+      "Dragon horse",
+      "龍馬",
+      "ryūme"
+    ],
+    [
+      "Flying chariot",
+      "飛車",
+      "hisha",
+      "Dragon king",
+      "龍王",
+      "ryūō"
+    ],
+    [
+      "Side wolf",
+      "横狼",
+      "ōrō",
+      "*Free wolf",
+      "奔狼",
+      "honrō"
+    ],
+    [
+      "Flying cat",
+      "飛猫",
+      "hibyō",
+      "Flying chariot",
+      "飛車",
+      "hisha"
+    ],
+    [
+      "Mountain hawk",
+      "山鷹",
+      "san'ō",
+      "Horned hawk",
+      "角鷹",
+      "kakuō"
+    ],
+    [
+      "Vertical tiger",
+      "竪虎",
+      "shuko",
+      "*Free tiger",
+      "奔虎",
+      "honko"
+    ],
+    [
+      "Soldier",
+      "兵士",
+      "heishi",
+      "*Cavalier",
+      "騎士",
+      "kishi"
+    ],
+    [
+      "Little standard",
+      "小旗",
+      "shōki",
+      "Rear standard",
+      "後旗",
+      "kōki"
+    ],
+    [
+      "Cloud dragon",
+      "雲龍",
+      "unryū",
+      "Great dragon",
+      "大龍",
+      "dairyū"
+    ],
+    [
+      "Copper chariot",
+      "銅車",
+      "dōsha",
+      "*Copper elephant",
+      "銅象",
+      "dōzō"
+    ],
+    [
+      "Running chariot",
+      "走車",
+      "sōsha",
+      "*Cannon chariot",
+      "炮車",
+      "hōsha"
+    ],
+    [
+      "Ram's-head soldier",
+      "羊兵",
+      "yōhei",
+      "*Tiger soldier",
+      "虎兵",
+      "kohei"
+    ],
+    [
+      "Fierce ox",
+      "猛牛",
+      "mōgyū",
+      "Flying ox",
+      "飛牛",
+      "higyū"
+    ],
+    [
+      "Great dragon",
+      "大龍",
+      "dairyū",
+      "*Ancient dragon",
+      "元龍",
+      "genryū, ganryū"
+    ],
+    [
+      "Gold bird",
+      "金翅",
+      "kinshi",
+      "*Free bird",
+      "奔翅",
+      "honshi"
+    ],
+    [
+      "Dark spirit",
+      "無明",
+      "mumyō",
+      "*Buddhist spirit",
+      "法性",
+      "hōsei"
+    ],
+    [
+      "Deva",
+      "提婆",
+      "daiba",
+      "*King of teachings",
+      "教王",
+      "kyōō"
+    ],
+    [
+      "Wood chariot",
+      "木車",
+      "mokusha",
+      "*Wind snapping turtle",
+      "風鼈",
+      "fūbetsu"
+    ],
+    [
+      "White foal",
+      "白駒",
+      "hakku",
+      "*Great foal",
+      "大駒",
+      "daiku"
+    ],
+    [
+      "Howling dog (left)",
+      "𠵇犬",
+      "kiken",
+      "*Left dog",
+      "左犬",
+      "saken"
+    ],
+    [
+      "Howling dog (right)",
+      "𠵇犬",
+      "kiken",
+      "*Right dog",
+      "右犬",
+      "uken"
+    ],
+    [
+      "Side mover",
+      "横行",
+      "ōgyō",
+      "*Free boar",
+      "奔猪",
+      "honcho"
+    ],
+    [
+      "Prancing stag",
+      "踊鹿",
+      "yōroku",
+      "Square mover",
+      "方行",
+      "hōgyō"
+    ],
+    [
+      "Water ox",
+      "水牛",
+      "suigyū",
+      "*Great dream-eater",
+      "大獏",
+      "daibaku"
+    ],
+    [
+      "Fierce leopard",
+      "猛豹",
+      "mōhyō",
+      "Angle mover",
+      "角行",
+      "kakugyō"
+    ],
+    [
+      "Fierce eagle",
+      "猛鷲",
+      "mōjū",
+      "Flying eagle",
+      "飛鷲",
+      "hijū"
+    ],
+    [
+      "Flying dragon",
+      "飛龍",
+      "hiryū",
+      "Dragon king",
+      "龍王",
+      "ryūō"
+    ],
+    [
+      "Poisonous serpent",
+      "毒蛇",
+      "dokuja",
+      "Hook mover",
+      "鉤行",
+      "kōgyō"
+    ],
+    [
+      "Flying goose",
+      "鳫飛",
+      "ganhi",
+      "Swallow's wings",
+      "燕羽",
+      "en'u"
+    ],
+    [
+      "Strutting crow",
+      "烏行",
+      "ukō",
+      "*Flying hawk",
+      "飛鷹",
+      "hiyō"
+    ],
+    [
+      "Blind dog",
+      "盲犬",
+      "mōken",
+      "Fierce stag",
+      "猛鹿",
+      "mōroku"
+    ],
+    [
+      "Water general",
+      "水将",
+      "suishō",
+      "Vice general",
+      "副将",
+      "fukushō"
+    ],
+    [
+      "Fire general",
+      "火将",
+      "kashō",
+      "Great general",
+      "大将",
+      "taishō"
+    ],
+    [
+      "Phoenix",
+      "鳳凰",
+      "hōō",
+      "Gold bird",
+      "金翅",
+      "kinshi"
+    ],
+    [
+      "Kirin",
+      "麒麟",
+      "kirin",
+      "Gold bird",
+      "金翅",
+      "kinshi"
+    ],
+    [
+      "Hook mover",
+      "鉤行",
+      "kōgyō",
+      "—",
+      "",
+      ""
+    ],
+    [
+      "Little turtle",
+      "小亀",
+      "shōki",
+      "*Treasure turtle",
+      "宝亀",
+      "hōki"
+    ],
+    [
+      "Great turtle",
+      "大亀",
+      "daiki",
+      "*Spirit turtle",
+      "霊亀",
+      "reiki"
+    ],
+    [
+      "Capricorn",
+      "摩羯",
+      "makatsu",
+      "Hook mover",
+      "鉤行",
+      "kōgyō"
+    ],
+    [
+      "Tile chariot",
+      "瓦車",
+      "gasha",
+      "*Running tile",
+      "走瓦",
+      "sōga"
+    ],
+    [
+      "Vertical wolf",
+      "竪狼",
+      "shurō",
+      "Running wolf",
+      "走狼",
+      "sōrō"
+    ],
+    [
+      "Side ox",
+      "横牛",
+      "ōgyū",
+      "Flying ox",
+      "飛牛",
+      "higyū"
+    ],
+    [
+      "Donkey",
+      "驢馬",
+      "roba",
+      "Ceramic dove",
+      "鳩盤",
+      "kyūban"
+    ],
+    [
+      "Flying horse",
+      "馬麟",
+      "barin",
+      "Free king",
+      "奔王",
+      "honnō"
+    ],
+    [
+      "Fierce bear",
+      "猛熊",
+      "mōyū",
+      "*Great bear",
+      "大熊",
+      "daiyū"
+    ],
+    [
+      "Angry boar",
+      "嗔猪",
+      "shincho",
+      "*Free boar",
+      "奔猪",
+      "honcho"
+    ],
+    [
+      "Evil wolf",
+      "悪狼",
+      "akurō",
+      "*Poisonous wolf",
+      "毒狼",
+      "dokurō"
+    ],
+    [
+      "Wind horse",
+      "風馬",
+      "fūma",
+      "*Heavenly horse",
+      "天馬",
+      "temma"
+    ],
+    [
+      "Flying chicken",
+      "鶏飛",
+      "keihi",
+      "*Raiding hawk",
+      "延鷹",
+      "en'yō"
+    ],
+    [
+      "Old monkey",
+      "古猿",
+      "koen",
+      "*Mountain witch",
+      "山母",
+      "sanbo"
+    ],
+    [
+      "Huai chicken",
+      "淮鶏",
+      "waikei",
+      "*Wizard stork",
+      "仙",
+      "senkaku"
+    ],
+    [
+      "Northern barbarian",
+      "北狄",
+      "hokuteki",
+      "Wooden dove",
+      "鳩槃",
+      "kyūhan"
+    ],
+    [
+      "Southern barbarian",
+      "南蛮",
+      "nanban",
+      "Gold bird",
+      "金翅",
+      "kinshi"
+    ],
+    [
+      "Western barbarian",
+      "西戎",
+      "seijū",
+      "Lion dog",
+      "狛犬",
+      "komainu"
+    ],
+    [
+      "Eastern barbarian",
+      "東夷",
+      "tōi",
+      "Lion",
+      "獅子",
+      "shishi"
+    ],
+    [
+      "Fierce stag",
+      "猛鹿",
+      "mōroku",
+      "*Rushing boar",
+      "行猪",
+      "gyōcho"
+    ],
+    [
+      "Fierce wolf",
+      "猛狼",
+      "mōrō",
+      "*Bear's eyes",
+      "熊眼",
+      "yūgan"
+    ],
+    [
+      "Treacherous fox",
+      "隠狐",
+      "inko, onko",
+      "*Mountain crane",
+      "山鶻",
+      "sankotsu"
+    ],
+    [
+      "Center master",
+      "中師",
+      "chūshi",
+      "—",
+      "",
+      ""
+    ],
+    [
+      "Peng master",
+      "鵬師",
+      "hōshi",
+      "—",
+      "",
+      ""
+    ],
+    [
+      "Earth chariot",
+      "土車",
+      "dosha",
+      "*Reed bird",
+      "芦鳥",
+      "shakuchō"
+    ],
+    [
+      "Vermillion sparrow",
+      "朱雀",
+      "suzaku",
+      "*Divine sparrow",
+      "神雀",
+      "shinjaku"
+    ],
+    [
+      "Blue dragon",
+      "青龍",
+      "seiryū",
+      "*Divine dragon",
+      "神龍",
+      "shinryū"
+    ],
+    [
+      "Enchanted badger",
+      "変狸",
+      "henri",
+      "Ceramic dove",
+      "鳩盤",
+      "kyūban"
+    ],
+    [
+      "Horseman",
+      "騎兵",
+      "kihei",
+      "*Cavalier",
+      "騎士",
+      "kishi"
+    ],
+    [
+      "Swooping owl",
+      "鴟行",
+      "shigyō",
+      "Cloud eagle",
+      "雲鷲",
+      "unjū"
+    ],
+    [
+      "Climbing monkey",
+      "登猿",
+      "tōen",
+      "Fierce stag",
+      "猛鹿",
+      "mōroku"
+    ],
+    [
+      "Cat sword",
+      "猫刀",
+      "myōjin",
+      "Dragon horse",
+      "龍馬",
+      "ryūme"
+    ],
+    [
+      "Swallow's wings",
+      "燕羽",
+      "en'u",
+      "*Gliding swallow",
+      "燕行",
+      "engyō"
+    ],
+    [
+      "Blind monkey",
+      "盲猿",
+      "mōen",
+      "*Flying stag",
+      "飛鹿",
+      "hiroku"
+    ],
+    [
+      "Blind tiger",
+      "盲虎",
+      "mōko",
+      "*Flying stag",
+      "飛鹿",
+      "hiroku"
+    ],
+    [
+      "Ox chariot",
+      "牛車",
+      "gissha",
+      "*Plodding ox",
+      "歬牛",
+      "sengyū"
+    ],
+    [
+      "Side flyer",
+      "横飛",
+      "ōhi",
+      "Side dragon",
+      "横龍",
+      "ōryū"
+    ],
+    [
+      "Blind bear",
+      "盲熊",
+      "mōyū",
+      "*Flying stag",
+      "飛鹿",
+      "hiroku"
+    ],
+    [
+      "Old rat",
+      "老鼠",
+      "rōso",
+      "*Mocking bird",
+      "or",
+      "jichō"
+    ],
+    [
+      "Square mover",
+      "方行",
+      "hōgyō",
+      "*Strong chariot",
+      "強車",
+      "kyōsha"
+    ],
+    [
+      "Coiled serpent",
+      "蟠蛇",
+      "banja",
+      "*Coiled dragon",
+      "蟠龍",
+      "banryū"
+    ],
+    [
+      "Reclining dragon",
+      "臥龍",
+      "garyū",
+      "Great dragon",
+      "大龍",
+      "dairyū"
+    ],
+    [
+      "Free eagle",
+      "奔鷲",
+      "honjū",
+      "—",
+      "",
+      ""
+    ],
+    [
+      "Lion hawk",
+      "獅鷹",
+      "shiō",
+      "—",
+      "",
+      ""
+    ],
+    [
+      "Chariot soldier",
+      "車兵",
+      "shahei",
+      "*Heavenly tetrarch king",
+      "四天王",
+      "shitennō"
+    ],
+    [
+      "Side soldier",
+      "横兵",
+      "ōhei",
+      "Water ox",
+      "水牛",
+      "suigyū"
+    ],
+    [
+      "Vertical soldier",
+      "竪兵",
+      "shuhei",
+      "Chariot soldier",
+      "車兵",
+      "shahei"
+    ],
+    [
+      "Wind general",
+      "風将",
+      "fūshō",
+      "*Fierce wind",
+      "暴風",
+      "bōfū"
+    ],
+    [
+      "River general",
+      "川将",
+      "senshō",
+      "*Huai river",
+      "淮川",
+      "waisen"
+    ],
+    [
+      "Mountain general",
+      "山将",
+      "sanshō",
+      "*Mount Tai",
+      "泰山",
+      "taisan"
+    ],
+    [
+      "Front standard",
+      "前旗",
+      "zenki",
+      "Great standard",
+      "大旗",
+      "daiki"
+    ],
+    [
+      "Horse soldier",
+      "馬兵",
+      "bahei",
+      "Running horse",
+      "走馬",
+      "sōma, sōba"
+    ],
+    [
+      "Wood general",
+      "木将",
+      "mokushō",
+      "White elephant",
+      "白象",
+      "hakuzō"
+    ],
+    [
+      "Ox soldier",
+      "牛兵",
+      "gyūhei",
+      "*Running ox",
+      "走牛",
+      "sōgyū"
+    ],
+    [
+      "Earth general",
+      "土将",
+      "doshō",
+      "White elephant",
+      "白象",
+      "hakuzō"
+    ],
+    [
+      "Boar soldier",
+      "猪兵",
+      "chohei",
+      "*Running boar",
+      "走猪",
+      "sōcho"
+    ],
+    [
+      "Stone general",
+      "石将",
+      "sekishō",
+      "White elephant",
+      "白象",
+      "hakuzō"
+    ],
+    [
+      "Leopard soldier",
+      "豹兵",
+      "hyōhei",
+      "*Running leopard",
+      "走豹",
+      "sōhyō"
+    ],
+    [
+      "Tile general",
+      "瓦将",
+      "gashō",
+      "White elephant",
+      "白象",
+      "hakuzō"
+    ],
+    [
+      "Bear soldier",
+      "熊兵",
+      "yūhei",
+      "*Strong bear",
+      "強熊",
+      "kyōyū"
+    ],
+    [
+      "Iron general",
+      "鉄将",
+      "tesshō",
+      "White elephant",
+      "白象",
+      "hakuzō"
+    ],
+    [
+      "Great standard",
+      "大旗",
+      "daiki",
+      "—",
+      "",
+      ""
+    ],
+    [
+      "Great master",
+      "大師",
+      "daishi",
+      "—",
+      "",
+      ""
+    ],
+    [
+      "Right chariot",
+      "右車",
+      "usha",
+      "*Right iron chariot",
+      "右鉄車",
+      "utessha"
+    ],
+    [
+      "Left chariot",
+      "左車",
+      "sasha",
+      "*Left iron chariot",
+      "左鉄車",
+      "satessha"
+    ],
+    [
+      "Side monkey",
+      "横猿",
+      "ōen",
+      "Side soldier",
+      "横兵",
+      "ōhei"
+    ],
+    [
+      "Vertical mover",
+      "竪行",
+      "shugyō",
+      "Flying ox",
+      "飛牛",
+      "higyū"
+    ],
+    [
+      "Flying ox",
+      "飛牛",
+      "higyū",
+      "*Fire ox",
+      "火牛",
+      "kagyū"
+    ],
+    [
+      "Longbow soldier",
+      "弩兵",
+      "dohei",
+      "*Longbow general",
+      "弩将",
+      "doshō"
+    ],
+    [
+      "Vertical pup",
+      "竪狗",
+      "shuku",
+      "*Leopard king",
+      "豹王",
+      "hyōō"
+    ],
+    [
+      "Vertical horse",
+      "竪馬",
+      "shuba",
+      "Dragon horse",
+      "龍馬",
+      "ryūme"
+    ],
+    [
+      "Cannon soldier",
+      "炮兵",
+      "hōhei",
+      "*Cannon general",
+      "炮将",
+      "hōshō"
+    ],
+    [
+      "Dragon horse",
+      "龍馬",
+      "ryūme",
+      "Horned hawk",
+      "角鷹",
+      "kakuō"
+    ],
+    [
+      "Dragon king",
+      "龍王",
+      "ryūō",
+      "Flying eagle",
+      "飛鷲",
+      "hijū"
+    ],
+    [
+      "Sword soldier",
+      "刀兵",
+      "tōhei",
+      "*Sword general",
+      "刀将",
+      "tōshō"
+    ],
+    [
+      "Horned hawk",
+      "角鷹",
+      "kakuō",
+      "*Great hawk",
+      "大鷹",
+      "daiō"
+    ],
+    [
+      "Flying eagle",
+      "飛鷲",
+      "hijū",
+      "*Great eagle",
+      "大鷲",
+      "daijū"
+    ],
+    [
+      "Spear soldier",
+      "鎗兵",
+      "sōhei",
+      "*Spear general",
+      "鎗将",
+      "sōshō"
+    ],
+    [
+      "Vertical leopard",
+      "竪豹",
+      "shuhyō",
+      "*Great leopard",
+      "大豹",
+      "daihyō"
+    ],
+    [
+      "Fierce tiger",
+      "猛虎",
+      "mōko",
+      "*Great tiger",
+      "大虎",
+      "daiko"
+    ],
+    [
+      "Crossbow soldier",
+      "弓兵",
+      "kyūhei",
+      "*Crossbow general",
+      "弓将",
+      "kyūshō"
+    ],
+    [
+      "Roaring dog",
+      "吼犬",
+      "kōken",
+      "Lion dog",
+      "狛犬",
+      "komainu"
+    ],
+    [
+      "Lion dog",
+      "狛犬",
+      "komainu",
+      "*Great elephant",
+      "大象",
+      "taizō"
+    ],
+    [
+      "Dog",
+      "犬",
+      "inu",
+      "*Multi general",
+      "雜将",
+      "suishō"
+    ],
+    [
+      "Go-between",
+      "仲人",
+      "chūnin",
+      "Drunken elephant",
+      "酔象",
+      "suizō"
+    ],
+    [
+      "Pawn",
+      "歩兵",
+      "fuhyō",
+      "Gold general",
+      "と金",
+      "tokin"
+    ]
+  ],
+  "moves": {
+    "Pawn (歩兵)": "fW",
+    "Earth general (土将) and go-between (仲人)": "vW",
+    "Stone general (石将)": "fF",
+    "Iron general (鉄将) and dog (犬)": "fWfF",
+    "Swooping owl (鴟行), old rat (老鼠) and strutting crow (烏行)": "fWbF",
+    "Tile general (瓦将) and sword soldier (刀兵)": "bWfF",
+    "Copper general (銅将), flying goose (鳫飛) and climbing monkey (登猿)": "vWfF",
+    "Reclining dragon (臥龍)": "W",
+    "Coiled serpent (蟠蛇)": "vWbF",
+    "Flying chicken (鶏飛)": "sWfF",
+    "Cat sword (猫刀)": "F",
+    "Evil wolf (悪狼)": "fFfsW",
+    "Silver general (銀将) and fierce stag (猛鹿)": "FfW",
+    "Blind dog (盲犬) and Huai chicken (淮鶏)": "fFbsW",
+    "Old monkey (古猿)": "FbW",
+    "Gold general (金将) and fierce wolf (猛狼)": "WfF",
+    "Fierce leopard (猛豹)": "vK",
+    "Blind monkey (盲猿), blind bear (盲熊) and angry boar (嗔猪)": "sK",
+    "Drunken elephant (酔象), neighboring king (近王) and rushing boar (行猪)": "fsK",
+    "Deva (提婆)": "WflFbF",
+    "Dark spirit (無明)": "WfrFbF",
+    "Blind tiger (盲虎)": "FbWsW",
+    "Left general (左将)": "rFvWrW",
+    "Right general (右将)": "lFvWlW",
+    "Crown prince (太子), bear's eyes (熊眼) and poisonous wolf (毒狼)": "K",
+    "Wood general (木将)": "fB2",
+    "Donkey (驢馬) and enchanted badger (変狸)": "R2",
+    "Flying horse (馬麟)": "B2",
+    "Beast cadet (獣曹)": "B2fsR2",
+    "King (王将/玉将), fragrant elephant (香象) and white elephant (白象)": "Q2",
+    "Rushing bird (行鳥)": "FsWfW2",
+    "Fierce bear (猛熊)": "fB2fsW",
+    "Eastern barbarian (東夷) and western barbarian (西戎)": "sWvW2fF",
+    "Northern barbarian (北狄), southern barbarian (南蛮) and prancing stag (踊鹿)": "vWsW2fF",
+    "Poisonous serpent (毒蛇)": "sfW2bW1fF",
+    "Old kite (古鵄) Kite here refers to the bird of prey.": "B2sW",
+    "Fierce eagle (猛鷲)": "B2fsW",
+    "Guardian of the gods (金剛)": "R3",
+    "Sumo wrestler (力士)": "B3",
+    "Fowl cadet (禽曹)": "B3fsR3",
+    "Horse general (馬将), ox general (牛将), wind general (風将) and river general (川将)": "fFbWfR3",
+    "Fire general (火将)": "fFvR3",
+    "Water general (水将) and mountain general (山将)": "fB3vW",
+    "Buddhist devil (羅刹)": "fB3bsW",
+    "Nature spirit (夜叉)": "fFbWsR3",
+    "Sword general (刀将)": "bWfQ3",
+    "Fowl officer (禽吏)": "B3fsR2",
+    "Beast officer (獣吏)": "B3sR2fR3",
+    "Heavenly tetrarch (四天)": "Q4",
+    "Chicken general (鶏将) and pup general (狗将)": "bFfR4",
+    "Pig general (豚将)": "bR2fB4",
+    "Mountain stag (山鹿)": "fB3fWsR2bR4",
+    "Leopard king (豹王)": "Q5",
+    "Turtle dove (山鳩)": "fB5bsW",
+    "Crossbow soldier (弓兵)": "fB3bWsR3fR5",
+    "Cannon soldier (炮兵)": "fB5bWsR3fR7",
+    "Incense chariot (香車), ox chariot (牛車), and fierce tiger (猛虎)": "fR",
+    "Reverse chariot (反車)": "vR",
+    "Side dragon (横龍)": "fsR",
+    "Mountain witch (山母)": "BbR",
+    "White foal (白駒), mocking bird (⿰古寺·⿱時鳥) and multi general (雜将)": "vRfB",
+    "Flying chariot (飛車), soldier (兵士), running chariot (走車), square mover (方行) and gliding swallow (燕行)": "R",
+    "Free serpent (奔蛇), coiled dragon (蟠龍) and whale (鯨鯢)": "vRbB",
+    "Angle mover (角行)": "B",
+    "Free wolf (奔狼) and running leopard (走豹)": "fBfsR",
+    "Wizard stork (仙·⿱而鷦)": "fBsbR",
+    "Flying ox (飛牛), free bear (奔熊), free leopard (奔豹) and great whale (大鯨)": "BvR",
+    "Treacherous fox (隠狐)": "BAGvRvDvH(mAmG-B)(mvDmvH-R)",
+    "Cavalier (騎士) and strong chariot (強車)": "RfB",
+    "Free dragon (奔龍) and free tiger (奔虎)": "BbsR",
+    "Free king (奔王), free stag (奔鹿) and strong eagle (勁鷲)": "Q",
+    "Howling dog (left and right) (𠵇犬)": "bWfR",
+    "Vertical horse (竪馬)": "fFbWfR",
+    "Spear soldier (鎗兵)": "WfR",
+    "Vertical pup (竪狗)": "bFbWfR",
+    "Raiding hawk (延鷹)": "fFsWfR",
+    "Right iron chariot (右鉄車)": "rWbBflB",
+    "Left iron chariot (左鉄車)": "lWbBfrB",
+    "Vertical leopard (竪豹)": "WfFfR",
+    "Right dog (右犬)": "bWfRblB",
+    "Left dog (左犬)": "bWfRbrB",
+    "Ram's-head soldier (羊兵) and Flying swallow (飛燕)": "bWfB",
+    "Wood chariot (木車)": "flFbrFvR",
+    "Tile chariot (瓦車)": "frFblFvR",
+    "Running boar (走猪), Running pup (走狗), running serpent (走蛇), Earth chariot (土車) and vertical mover (竪行).": "WvR",
+    "Fierce ox (猛牛)": "vWfB",
+    "Side wolf (横狼)": "flFbrFsR",
+    "Side ox (横牛)": "frFblFsR",
+    "Side mover (横行) and swallow's wings (燕羽)": "WsR",
+    "Side monkey (横猿)": "bWfFsR",
+    "Divine sparrow (神雀)": "WfrFflBbB",
+    "Plodding ox (歬牛)": "FvR",
+    "Side flyer (横飛)": "FsR",
+    "Flying stag (飛鹿) and copper elephant (銅象)": "KvR",
+    "Vermillion sparrow (朱雀)": "KflBbrB",
+    "Turtle-snake (玄武)": "KfrBblB",
+    "Side boar (横猪)": "KsR",
+    "Left chariot (左車)": "lWfRfrBblB",
+    "Right chariot (右車)": "rWfRflBbrB",
+    "Great tiger (大虎)": "WbsR",
+    "Right tiger (右虎)": "FlQ",
+    "Left tiger (左虎)": "FrQ",
+    "Great bear (大熊)": "WfQ",
+    "Running rabbit (走兎)": "bKfQ",
+    "Left army (左軍)": "KlQ",
+    "Right army (右軍)": "KrQ",
+    "Divine turtle (神亀)": "KfrBbB",
+    "Running wolf (走狼)": "fWfBsR",
+    "Flying hawk (飛鷹)": "BfW",
+    "Cannon chariot (炮車)": "WfBvR",
+    "Dragon king (龍王)": "RF",
+    "Dragon horse (龍馬)": "WB",
+    "Free boar (奔猪)": "WfsRfB",
+    "Wind dragon (風龍)": "FfBbrBsR",
+    "Cloud dragon (雲龍)": "BWbR",
+    "Rain dragon (雨龍)": "WbsRFbB",
+    "Fire ox (火牛) and fierce wind (暴風)": "vQW",
+    "Huai river (淮川)": "WsQ",
+    "Vertical tiger (竪虎)": "fRbR2",
+    "Wind snapping turtle (風鼈)": "fB2vR",
+    "Running tile (走瓦), Running tiger (走虎) and running bear (走熊)": "vRsR2",
+    "Gold stag (金鹿)": "fBbB2",
+    "Silver rabbit (銀兎)": "fB2bB",
+    "Walking heron (歩䳲)": "sR2fB2vR",
+    "Reed bird (芦鳥)": "sR2bB2vR",
+    "Right dragon (右龍)": "rR2lQ",
+    "Left dragon (左龍)": "lR2rQ",
+    "Blue dragon (青龍)": "sR2vRfrB",
+    "White tiger (白虎)": "vR2sRflB",
+    "Divine tiger (神虎)": "bR2fsRflB",
+    "Divine dragon (神龍)": "lR2vrRfrB",
+    "Running stag (走鹿)": "bR2sRfB",
+    "Rear standard (後旗)": "B2R",
+    "Ceramic dove (鳩盤) and Elephant king (象王)": "R2B",
+    "Horseman (騎兵) and great foal (大駒)": "sR2vRfB",
+    "Woodland demon (林鬼), free chicken (奔鶏) and free dog (奔犬)": "sR2bB2vRfB",
+    "Running ox (走牛)": "bR2fsRfB",
+    "Chariot soldier (車兵)": "sR2vQ",
+    "Fire demon (火鬼) and Water ox (水牛)": "vR2sQ",
+    "Strong bear (強熊)": "bR2fsQ",
+    "Wind horse (風馬)": "fFbR2fR",
+    "Vertical bear (竪熊) and Vertical soldier (竪兵)": "bWsR2fR",
+    "Tiger soldier (虎兵)": "bWfR2fB",
+    "Earth dragon (地龍)": "fFbWfR2bB",
+    "Silver chariot (銀車)": "bFfB2vR",
+    "Stone chariot (石車)": "fFsR2vR",
+    "Side soldier (横兵)": "bWfR2sR",
+    "Gold chariot (金車)": "FsR2vR",
+    "Boar soldier (猪兵), leopard soldier (豹兵) and bear soldier (熊兵)": "bWsR2fQ",
+    "Free pup (奔狗), free ox (奔牛), free horse (奔馬) and free pig (奔豚)": "FsR2vRfB",
+    "Little standard (小旗)": "RfB2bF",
+    "Copper chariot (銅車)": "fB3vR",
+    "Forest demon (森鬼)": "fsR3fBbR",
+    "Great dragon (大龍)": "BvR3",
+    "Center standard (中旗) and front standard (前旗)": "B3R",
+    "Great dove (大鳩)": "R3B",
+    "Great standard (大旗)": "RbB3fB",
+    "Vertical wolf (竪狼)": "sWbR3fR",
+    "Side serpent (横蛇)": "bWfR3sR",
+    "Cloud eagle (雲鷲)": "sWfF3vWW",
+    "Goose wing (鴻翼)": "FsW3vWW",
+    "Horse soldier (馬兵) and ox soldier (牛兵)": "bWsR3fQ",
+    "Spear general (鎗将)": "bR2sR3fR",
+    "Cannon general (炮将)": "bR2sR3fQ",
+    "Beast bird (獣鳥) and fowl (禽鳥)": "BbR2sR3fR",
+    "Great leopard (大豹)": "bWsR2fRfB3",
+    "Longbow soldier (弩兵)": "bWsR2fRfB5",
+    "Thunder runner (雷走)": "bsR4fQ",
+    "Fire dragon (火龍)": "RbB2fB4",
+    "Water dragon (水龍)": "RfB2bB4",
+    "Longbow general (弩将)": "fBvRsR5",
+    "Stone peng (石鵬)": "BsR5",
+    "Mount Tai (泰山)": "BfsR5",
+    "Free demon (奔鬼)": "BvR5sR",
+    "Free dream-eater (奔獏)": "vQsR5",
+    "Free fire (奔火)": "sQvR5",
+    "Running dragon (走龍)": "fsQbR5",
+    "Great shark (大鱗)": "RbB2fB5",
+    "Crossbow general (弓将)": "bR2sR3fRfB5",
+    "Playful parrot (遊䳇)": "bB2fB3sR5vR",
+    "Cassia horse (桂馬)": "ffN",
+    "Flying dragon (飛龍)": "A",
+    "Kirin (麒麟)": "FvWsD",
+    "Phoenix (鳳凰)": "WA",
+    "Flying cat (飛猫)": "bWbFfsHfG",
+    "Running horse (走馬)": "bWbAfQ",
+    "Mountain hawk (山鷹)": "fDbB2RfB",
+    "Little turtle (小亀)": "vQsR2vD",
+    "Great stag (大鹿)": "RfAbB2",
+    "Left mountain eagle (左山鷲)": "RlAfBblBbrB2",
+    "Right mountain eagle (右山鷲)": "RrAblB2fBbrB",
+    "Kirin master (麟師) and Great turtle (大亀)": "vQvHsR3",
+    "Phoenix master (鳳師)": "vQfGsR3",
+    "Great master (大師)": "fGfHbB5sR5fBvR",
+    "Horned hawk (角鷹)": "QfD",
+    "Flying eagle (飛鷲)": "QfA",
+    "Roaring dog (吼犬)": "HfGRbB3fB",
+    "Lion dog (狛犬)": "QHG",
+    "Great dream-eater (大獏)": "QsH",
+    "Heavenly horse (天馬)": "vNfR",
+    "Spirit turtle (霊亀)": "QH",
+    "Treasure turtle (宝亀)": "QD",
+    "Wooden dove (鳩槃)": "R2BG(G-B2)",
+    "Center master (中師)": "sR3bB3vDfAvRfB",
+    "Peng master (鵬師)": "fGbB5fBsR5vR",
+    "Free eagle (奔鷲)": "QDAHGf(4,4)(cK-bK)(D-R)(A-B)(H-R)(G-B)(f(4,4)-B)",
+    "Free bird (奔翅)": "RbB3(f(mpB)3-B)",
+    "Great hawk (大鷹)": "QfD(fD-R)",
+    "King of teachings (教王)": "HG(H-R)(G-B)",
+    "Mountain crane (山鶻)": "QDAHG(4,0)(4,4)(D-R)(A-B)(H-R)(G-B)((4,0)-R)((4,4)-B)",
+    "Great eagle (大鷲)": "Q(fA-B)",
+    "Great elephant (大象)": "fB3(pR-R)(b(mpB)3-B)",
+    "Gold bird (金翅)": "bF3sW3vF(f(mpFF)3-FF)",
+    "Ancient dragon (元龍)": "B(v(mppR3)-R)",
+    "Rain demon (霖鬼)": "fR3sR2bB2bR(fmB-B)",
+    "Flying general (飛将)": "((cRcdR)-R), ignoring capturing restrictions",
+    "Angle general (角将)": "((cBcdB)-B), ignoring capturing restrictions",
+    "Great general (大将)": "((cQcdQ)-Q), ignoring capturing restrictions",
+    "Fierce dragon (猛龍)": "W2((cBcdB)-B), ignoring capturing restrictions",
+    "Flying crocodile (飛鰐)": "bB2fB3((cRcdR)-R), ignoring capturing restrictions",
+    "Vice general (副将)": "D((cBcdB)-B), ignoring capturing restrictions",
+    "Hook mover (鉤行)": "R(R-sR)",
+    "Tengu (天狗)": "B(B-sB)",
+    "Capricorn (摩羯)": "B(B-sB). If the capricorn can also move one square orthogonally, the notation can be represented as WB(B-sB)",
+    "Peacock (孔雀)": "bB2fB(fB-sB)",
+    "Heavenly tetrarch king (四天王)": "QDA(D-R)(A-B)",
+    "Lion (獅子)": "KDAN(cK-bK)",
+    "Furious fiend (奮迅)": "Q3DAN(cK-bK)",
+    "Buddhist spirit (法性)": "QDAN(cK-bK)",
+    "Lion hawk (獅鷹)": "WBDAN(cK-bK)"
+  }
+}

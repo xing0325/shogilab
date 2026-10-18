@@ -1,0 +1,332 @@
+@use 'pkg:breakpoint-sass' as breakpoint;
+@use 'pkg:common/abstract/media-queries';
+@use 'pkg:common/abstract/mixins';
+@use 'pkg:common/abstract/uniboard';
+@use 'pkg:common/abstract/variables';
+@use 'pkg:common/theme';
+@use 'local';
+
+.rcontrols {
+  grid-area: controls;
+}
+
+.expiration-top {
+  grid-area: expi-top;
+}
+
+.expiration-bottom {
+  grid-area: expi-bot;
+}
+
+.ruser-top {
+  grid-area: user-top;
+}
+
+.ruser-bottom {
+  grid-area: user-bot;
+}
+
+.rclock-top {
+  grid-area: clock-top;
+}
+
+.rclock-bottom {
+  grid-area: clock-bot;
+}
+
+.rmoves {
+  grid-area: moves;
+}
+
+.keyboard-move {
+  grid-area: kb-move;
+}
+
+.round__app {
+  display: grid;
+
+  @include breakpoint.breakpoint(local.$mq-col1) {
+    grid-template-rows:
+      auto
+      local.$col1-player-clock-height
+      auto
+      auto
+      local.$col1-player-clock-height;
+    grid-template-areas:
+      '.' // for move confirm
+      'user-top'
+      'board'
+      'expi-bot'
+      'user-bot'
+      'controls'
+      'moves'
+      'kb-move';
+
+    // Put clocks and players in the same grid cell.
+    // This allows having a single cell column, instead of
+    // columns: auto min-content;
+    // This is required to display the overflowable horizontal move list,
+    // so that it can be contain within the grid parent.
+    .rclock-top {
+      grid-area: 2 / 1 / 2 / 2;
+    }
+
+    .rclock-bottom {
+      grid-area: 5 / 1 / 5 / 2;
+    }
+
+    sg-board {
+      box-shadow: none;
+    }
+
+    .expiration-top {
+      display: none;
+    }
+
+    &__table {
+      display: none;
+    }
+
+    .keyboard-move {
+      margin-left: variables.$block-gap;
+    }
+
+    .rmoves {
+      margin-top: 2vmin;
+    }
+
+    &.move-confirm {
+      grid-template-areas:
+        'controls'
+        'user-top'
+        'board'
+        'expi-bot'
+        'user-bot'
+        'moves'
+        'kb-move';
+    }
+  }
+
+  @include breakpoint.breakpoint(local.$mq-col2) {
+    grid-template-rows: auto auto auto minmax(0, 1fr);
+    grid-template-columns:
+      var(--col2-uniboard-main-size)
+      variables.$block-gap uniboard.$col2-uniboard-table;
+    grid-template-areas:
+      'board    . clock-top'
+      'board    . expi-top'
+      'board    . user-top'
+      'board    . moves'
+      'board    . controls'
+      'board    . user-bot'
+      'board    . expi-bot'
+      'board    . clock-bot'
+      'kb-move  . .';
+
+    .round__app__table {
+      grid-area: 2 / 3 / 8 / 4;
+    }
+
+    .expiration-top {
+      display: flex;
+    }
+
+    .rmoves {
+      .moves {
+        display: none;
+        background: none;
+      }
+    }
+
+    .keyboard-move {
+      margin: variables.$block-gap 0 0 0;
+    }
+
+    .rcontrols {
+      align-self: flex-end;
+
+      .ricons {
+        &.empty {
+          display: none;
+        }
+      }
+    }
+
+    &.compact-layout {
+      grid-template-rows: fit-content(0) fit-content(0) 1fr fit-content(0);
+      grid-template-columns:
+        var(--col2-uniboard-main-size)
+        variables.$block-gap uniboard.$col2-uniboard-table;
+      grid-template-areas:
+        'user-top . expi-top'
+        'board    . moves'
+        'board    . moves'
+        'board    . controls'
+        'user-bot . expi-bot'
+        'kb-move  . .';
+      margin-top: -25px;
+      grid-column-gap: 0;
+
+      .rclock-turn {
+        height: unset;
+        line-height: unset;
+      }
+
+      .rclock-top,
+      .empty__clock-top {
+        grid-area: 1 / 1 / 2 / 2;
+      }
+
+      .rclock-bottom,
+      .empty__clock-bottom {
+        grid-area: 5 / 1 / 6 / 2;
+      }
+
+      .round__app__table {
+        grid-area: 2 / 3 / 5 / 4;
+      }
+
+      .rclock {
+        @include mixins.hand-width(margin-right);
+        /* that weird shit is required so the clock goes above the player since they share the same grid cell */
+        justify-self: flex-end;
+        height: 25px;
+        z-index: 1;
+        background-color: theme.$c-bg-high;
+
+        .moretime,
+        .berserked,
+        .go-berserk {
+          &::before {
+            font-size: 18px;
+          }
+        }
+
+        .go-berserk,
+        .tour-rank {
+          font-size: 18px;
+          line-height: unset;
+        }
+
+        .time,
+        .byoyomi {
+          font-size: 16px !important;
+          line-height: 22px;
+
+          &.per0 {
+            padding: 0;
+          }
+        }
+
+        .time {
+          padding: 3px 1vmin 0 1vmin;
+          box-shadow: none;
+        }
+
+        .byoyomi {
+          padding-left: 0;
+        }
+      }
+
+      .rclock .tour-rank,
+      .rclock .moretime,
+      .rclock .berserked {
+        order: -1;
+      }
+
+      .rclock .bar {
+        display: none;
+      }
+
+      .ruser {
+        @include mixins.board-width(width);
+        @include mixins.hand-width(margin-left);
+
+        height: 25px;
+        padding: 0.1em 0.3em 0 0.3em;
+        line-height: 22px;
+        background-color: theme.$c-bg-high;
+        z-index: 1;
+      }
+
+      .ruser a {
+        flex: none;
+      }
+
+      .expiration {
+        height: 25px;
+      }
+    }
+
+    &.small-moves {
+      grid-template-rows: minmax(0, 1fr) auto auto auto auto auto auto auto auto minmax(0, 1fr);
+      grid-template-areas:
+        'board . .'
+        'board    . clock-top'
+        'board    . expi-top'
+        'board    . user-top'
+        'board    . moves'
+        'board    . controls'
+        'board    . user-bot'
+        'board    . expi-bot'
+        'board    . clock-bot'
+        'board . .'
+        'kb-move  . .';
+
+      .round__app__table {
+        grid-area: 3 / 3 / 9 / 4;
+      }
+
+      .rmoves .areplay {
+        flex: 0 0 8rem;
+      }
+    }
+
+    @include breakpoint.breakpoint(media-queries.$mq-short) {
+      & .rmoves .moves {
+        display: flex;
+      }
+    }
+  }
+
+  @include breakpoint.breakpoint(local.$mq-col3) {
+    grid-template-columns:
+      var(--col3-uniboard-main-size)
+      variables.$block-gap uniboard.$col2-uniboard-table;
+  }
+
+  &__board {
+    grid-area: board;
+
+    @include breakpoint.breakpoint(local.$mq-col1) {
+      margin: 1vmin auto;
+
+      .main-v-chushogi & {
+        margin: 0 auto;
+      }
+    }
+  }
+
+  .main-board.v-minishogi &.compact-layout,
+  .main-board.v-kyotoshogi &.compact-layout {
+    @include breakpoint.breakpoint(uniboard.$mq-col2-uniboard) {
+      padding-bottom: calc((100% - #{uniboard.$hands-gap}) / 11 * 9 / 11 * 12);
+
+      .sg-wrap {
+        height: calc(100% / 9 * 5 / 7 * 11);
+        top: calc(100% / 9 * 5 / 7);
+      }
+    }
+  }
+
+  .main-board.v-dobutsu &.compact-layout {
+    @include breakpoint.breakpoint(uniboard.$mq-col2-uniboard) {
+      padding-bottom: calc((100% - #{uniboard.$hands-gap}) / 11 * 9 / 11 * 12);
+
+      .sg-wrap {
+        height: calc(100% / 9 * 3 / 5 * 11);
+        top: calc(100% / 9 * 3 / 5);
+      }
+    }
+  }
+}

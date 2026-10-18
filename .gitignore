@@ -1,0 +1,8 @@
+node_modules/
+test-artifacts/
+__pycache__/
+.DS_Store
+
+.server-data/
+*.tmp
+artifacts/

@@ -1,0 +1,5 @@
+# Replace with the same hostname used in PUBLIC_ORIGIN.
+play.example.com {
+    reverse_proxy 127.0.0.1:5173
+    encode zstd gzip
+}

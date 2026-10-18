@@ -1,0 +1,15 @@
+services:
+  shogi:
+    build: ..
+    restart: unless-stopped
+    environment:
+      HOST: 0.0.0.0
+      PORT: 5173
+      DATA_DIR: /app/.server-data
+      PUBLIC_ORIGIN: ${PUBLIC_ORIGIN:?Set your HTTPS origin, e.g. https://play.example.com}
+    ports:
+      - "127.0.0.1:5173:5173"
+    volumes:
+      - rooms:/app/.server-data
+volumes:
+  rooms:

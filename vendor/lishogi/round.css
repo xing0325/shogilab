@@ -1,0 +1,14 @@
+/* Adapted from lishogi ui/round/css/_app-layout.scss and _moves-col2.scss.
+ * Copyright (c) 2019 onwards the lishogi authors. AGPL-3.0-or-later.
+ * Sass variables resolved to the original light theme; local 5x5 layout widths.
+ */
+.round__app { display: grid; }
+.round__app__board { grid-area: board; }
+.rcontrols { text-align:center; width:100%; }
+.rmoves .moves { display:flex; flex-flow:row wrap; }
+.rmoves index { flex:0 0 17%; display:flex; justify-content:center; border-right:1px solid #d9d9d9; background:#f3f2f1; line-height:2.07em; color:#aaa; }
+.rmoves move { flex:0 0 83%; font-size:1.185em; line-height:1.75em; padding:0 .3em 0 .5em; }
+.rmoves move.active { font-weight:bold; background:#d4e4f3; color:#333; }
+.rmoves .areplay { display:block; flex:2 1 0; overflow-y:auto; overflow-x:hidden; border-top:1px solid #d9d9d9; position:relative; will-change:scroll-position; }
+.rmoves .areplay .moves { white-space:normal; }
+@media(min-width:760px){.round__app {grid-template-columns:minmax(0,1fr) 24px 280px; grid-template-areas:'board . table';}.round-table{grid-area:table;}}

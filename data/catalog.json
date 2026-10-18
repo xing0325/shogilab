@@ -1,0 +1,2711 @@
+[
+  {
+    "id": "king",
+    "name": "王将",
+    "english": "King",
+    "romaji": "ōshō / gyokushō",
+    "notation": "Q2",
+    "promotion": null,
+    "original": true
+  },
+  {
+    "id": "crown-prince",
+    "name": "太子",
+    "english": "Crown prince",
+    "romaji": "taishi",
+    "notation": "K",
+    "promotion": "king",
+    "original": true
+  },
+  {
+    "id": "great-general",
+    "name": "大将",
+    "english": "Great general",
+    "romaji": "taishō",
+    "notation": "((cQcdQ)-Q), ignoring capturing restrictions",
+    "promotion": null,
+    "original": true
+  },
+  {
+    "id": "gold-general",
+    "name": "金将",
+    "english": "Gold general",
+    "romaji": "kinshō",
+    "notation": "WfF",
+    "promotion": "flying-chariot",
+    "original": true
+  },
+  {
+    "id": "right-general",
+    "name": "右将",
+    "english": "Right general",
+    "romaji": "ushō",
+    "notation": "lFvWlW",
+    "promotion": "right-army",
+    "original": true
+  },
+  {
+    "id": "left-general",
+    "name": "左将",
+    "english": "Left general",
+    "romaji": "sashō",
+    "notation": "rFvWrW",
+    "promotion": "left-army",
+    "original": true
+  },
+  {
+    "id": "rear-standard",
+    "name": "後旗",
+    "english": "Rear standard",
+    "romaji": "kōki",
+    "notation": "B2R",
+    "promotion": "center-standard",
+    "original": true
+  },
+  {
+    "id": "free-king",
+    "name": "奔王",
+    "english": "Free king",
+    "romaji": "honnō",
+    "notation": "Q",
+    "promotion": "great-general",
+    "original": true
+  },
+  {
+    "id": "free-dream-eater",
+    "name": "奔獏",
+    "english": "Free dream-eater",
+    "romaji": "honbaku",
+    "notation": "vQsR5",
+    "promotion": "free-king",
+    "original": true
+  },
+  {
+    "id": "wooden-dove",
+    "name": "鳩槃",
+    "english": "Wooden dove",
+    "romaji": "kyūhan",
+    "notation": "R2BG(G-B2)",
+    "promotion": null,
+    "original": true
+  },
+  {
+    "id": "ceramic-dove",
+    "name": "鳩盤",
+    "english": "Ceramic dove",
+    "romaji": "kyūban",
+    "notation": "R2B",
+    "promotion": null,
+    "original": true
+  },
+  {
+    "id": "earth-dragon",
+    "name": "地龍",
+    "english": "Earth dragon",
+    "romaji": "chiryū",
+    "notation": "fFbWfR2bB",
+    "promotion": "rain-dragon",
+    "original": true
+  },
+  {
+    "id": "free-demon",
+    "name": "奔鬼",
+    "english": "Free demon",
+    "romaji": "honki",
+    "notation": "BvR5sR",
+    "promotion": "free-king",
+    "original": true
+  },
+  {
+    "id": "running-horse",
+    "name": "走馬",
+    "english": "Running horse",
+    "romaji": "sōma, sōba",
+    "notation": "bWbAfQ",
+    "promotion": "free-demon",
+    "original": true
+  },
+  {
+    "id": "beast-cadet",
+    "name": "獣曹",
+    "english": "Beast cadet",
+    "romaji": "jūsō",
+    "notation": "B2fsR2",
+    "promotion": "beast-officer",
+    "original": true
+  },
+  {
+    "id": "tengu",
+    "name": "天狗",
+    "english": "Tengu",
+    "romaji": "tengu",
+    "notation": "B(B-sB)",
+    "promotion": null,
+    "original": true
+  },
+  {
+    "id": "right-mountain-eagle",
+    "name": "右山鷲",
+    "english": "Right mountain eagle",
+    "romaji": "usanshū",
+    "notation": "RrAblB2fBbrB",
+    "promotion": "flying-eagle",
+    "original": true
+  },
+  {
+    "id": "left-mountain-eagle",
+    "name": "左山鷲",
+    "english": "Left mountain eagle",
+    "romaji": "sasanshū",
+    "notation": "RlAfBblBbrB2",
+    "promotion": "flying-eagle",
+    "original": true
+  },
+  {
+    "id": "fire-demon",
+    "name": "火鬼",
+    "english": "Fire demon",
+    "romaji": "kaki",
+    "notation": "vR2sQ",
+    "promotion": "free-fire",
+    "original": true
+  },
+  {
+    "id": "whale",
+    "name": "鯨鯢",
+    "english": "Whale",
+    "romaji": "keigei",
+    "notation": "vRbB",
+    "promotion": "great-whale",
+    "original": true
+  },
+  {
+    "id": "running-rabbit",
+    "name": "走兎",
+    "english": "Running rabbit",
+    "romaji": "sōto",
+    "notation": "bKfQ",
+    "promotion": "treacherous-fox",
+    "original": true
+  },
+  {
+    "id": "white-tiger",
+    "name": "白虎",
+    "english": "White tiger",
+    "romaji": "byakko",
+    "notation": "vR2sRflB",
+    "promotion": "divine-tiger",
+    "original": true
+  },
+  {
+    "id": "turtle-snake",
+    "name": "玄武",
+    "english": "Turtle-snake",
+    "romaji": "genbu",
+    "notation": "KfrBblB",
+    "promotion": "divine-turtle",
+    "original": true
+  },
+  {
+    "id": "incense-chariot",
+    "name": "香車",
+    "english": "Incense chariot",
+    "romaji": "kyōsha",
+    "notation": "fR",
+    "promotion": "white-foal",
+    "original": true
+  },
+  {
+    "id": "reverse-chariot",
+    "name": "反車",
+    "english": "Reverse chariot",
+    "romaji": "hensha",
+    "notation": "vR",
+    "promotion": "whale",
+    "original": true
+  },
+  {
+    "id": "fragrant-elephant",
+    "name": "香象",
+    "english": "Fragrant elephant",
+    "romaji": "kōzō",
+    "notation": "Q2",
+    "promotion": "elephant-king",
+    "original": true
+  },
+  {
+    "id": "white-elephant",
+    "name": "白象",
+    "english": "White elephant",
+    "romaji": "hakuzō",
+    "notation": "Q2",
+    "promotion": "elephant-king",
+    "original": true
+  },
+  {
+    "id": "turtle-dove",
+    "name": "山鳩",
+    "english": "Turtle dove",
+    "romaji": "sankyū",
+    "notation": "fB5bsW",
+    "promotion": "great-dove",
+    "original": true
+  },
+  {
+    "id": "flying-swallow",
+    "name": "飛燕",
+    "english": "Flying swallow",
+    "romaji": "hien",
+    "notation": "bWfB",
+    "promotion": "flying-chariot",
+    "original": true
+  },
+  {
+    "id": "fowl-officer",
+    "name": "禽吏",
+    "english": "Fowl officer",
+    "romaji": "kinri",
+    "notation": "B3fsR2",
+    "promotion": "fowl",
+    "original": true
+  },
+  {
+    "id": "rain-dragon",
+    "name": "雨龍",
+    "english": "Rain dragon",
+    "romaji": "uryū",
+    "notation": "WbsRFbB",
+    "promotion": "great-dragon",
+    "original": true
+  },
+  {
+    "id": "forest-demon",
+    "name": "森鬼",
+    "english": "Forest demon",
+    "romaji": "shinki",
+    "notation": "fsR3fBbR",
+    "promotion": "thunder-runner",
+    "original": true
+  },
+  {
+    "id": "mountain-stag",
+    "name": "山鹿",
+    "english": "Mountain stag",
+    "romaji": "sanroku",
+    "notation": "fB3fWsR2bR4",
+    "promotion": "great-stag",
+    "original": true
+  },
+  {
+    "id": "running-pup",
+    "name": "走狗",
+    "english": "Running pup",
+    "romaji": "sōku",
+    "notation": "WvR",
+    "promotion": "free-leopard",
+    "original": true
+  },
+  {
+    "id": "running-serpent",
+    "name": "走蛇",
+    "english": "Running serpent",
+    "romaji": "sōja",
+    "notation": "WvR",
+    "promotion": "free-serpent",
+    "original": true
+  },
+  {
+    "id": "side-serpent",
+    "name": "横蛇",
+    "english": "Side serpent",
+    "romaji": "ōja",
+    "notation": "bWfR3sR",
+    "promotion": "great-shark",
+    "original": true
+  },
+  {
+    "id": "great-dove",
+    "name": "大鳩",
+    "english": "Great dove",
+    "romaji": "daikyū",
+    "notation": "R3B",
+    "promotion": "wooden-dove",
+    "original": true
+  },
+  {
+    "id": "running-tiger",
+    "name": "走虎",
+    "english": "Running tiger",
+    "romaji": "sōko",
+    "notation": "vRsR2",
+    "promotion": "free-tiger",
+    "original": true
+  },
+  {
+    "id": "running-bear",
+    "name": "走熊",
+    "english": "Running bear",
+    "romaji": "sōyū",
+    "notation": "vRsR2",
+    "promotion": "free-bear",
+    "original": true
+  },
+  {
+    "id": "nature-spirit",
+    "name": "夜叉",
+    "english": "Nature spirit",
+    "romaji": "yasha",
+    "notation": "fFbWsR3",
+    "promotion": "heavenly-tetrarch",
+    "original": true
+  },
+  {
+    "id": "buddhist-devil",
+    "name": "羅刹",
+    "english": "Buddhist devil",
+    "romaji": "rasetsu",
+    "notation": "fB3bsW",
+    "promotion": "heavenly-tetrarch",
+    "original": true
+  },
+  {
+    "id": "guardian-of-the-gods",
+    "name": "金剛",
+    "english": "Guardian of the gods",
+    "romaji": "kongō",
+    "notation": "R3",
+    "promotion": "heavenly-tetrarch",
+    "original": true
+  },
+  {
+    "id": "sumo-wrestler",
+    "name": "力士",
+    "english": "Sumo wrestler",
+    "romaji": "rikishi",
+    "notation": "B3",
+    "promotion": "heavenly-tetrarch",
+    "original": true
+  },
+  {
+    "id": "silver-general",
+    "name": "銀将",
+    "english": "Silver general",
+    "romaji": "ginshō",
+    "notation": "FfW",
+    "promotion": "vertical-mover",
+    "original": true
+  },
+  {
+    "id": "drunken-elephant",
+    "name": "酔象",
+    "english": "Drunken elephant",
+    "romaji": "suizō",
+    "notation": "fsK",
+    "promotion": "crown-prince",
+    "original": true
+  },
+  {
+    "id": "neighboring-king",
+    "name": "近王",
+    "english": "Neighboring king",
+    "romaji": "kinnō",
+    "notation": "fsK",
+    "promotion": "front-standard",
+    "original": true
+  },
+  {
+    "id": "gold-chariot",
+    "name": "金車",
+    "english": "Gold chariot",
+    "romaji": "kinsha",
+    "notation": "FsR2vR",
+    "promotion": "playful-parrot",
+    "original": true
+  },
+  {
+    "id": "side-dragon",
+    "name": "横龍",
+    "english": "Side dragon",
+    "romaji": "ōryū",
+    "notation": "fsR",
+    "promotion": "running-dragon",
+    "original": true
+  },
+  {
+    "id": "running-stag",
+    "name": "走鹿",
+    "english": "Running stag",
+    "romaji": "sōroku",
+    "notation": "bR2sRfB",
+    "promotion": "free-stag",
+    "original": true
+  },
+  {
+    "id": "running-wolf",
+    "name": "走狼",
+    "english": "Running wolf",
+    "romaji": "sōrō",
+    "notation": "fWfBsR",
+    "promotion": "free-wolf",
+    "original": true
+  },
+  {
+    "id": "angle-general",
+    "name": "角将",
+    "english": "Angle general",
+    "romaji": "kakushō",
+    "notation": "((cBcdB)-B), ignoring capturing restrictions",
+    "promotion": "rain-demon",
+    "original": true
+  },
+  {
+    "id": "flying-general",
+    "name": "飛将",
+    "english": "Flying general",
+    "romaji": "hishō",
+    "notation": "((cRcdR)-R), ignoring capturing restrictions",
+    "promotion": "flying-crocodile",
+    "original": true
+  },
+  {
+    "id": "right-tiger",
+    "name": "右虎",
+    "english": "Right tiger",
+    "romaji": "uko",
+    "notation": "FlQ",
+    "promotion": "white-tiger",
+    "original": true
+  },
+  {
+    "id": "left-tiger",
+    "name": "左虎",
+    "english": "Left tiger",
+    "romaji": "sako",
+    "notation": "FrQ",
+    "promotion": "turtle-snake",
+    "original": true
+  },
+  {
+    "id": "right-dragon",
+    "name": "右龍",
+    "english": "Right dragon",
+    "romaji": "uryū",
+    "notation": "rR2lQ",
+    "promotion": "blue-dragon",
+    "original": true
+  },
+  {
+    "id": "left-dragon",
+    "name": "左龍",
+    "english": "Left dragon",
+    "romaji": "saryū",
+    "notation": "lR2rQ",
+    "promotion": "vermillion-sparrow",
+    "original": true
+  },
+  {
+    "id": "beast-officer",
+    "name": "獣吏",
+    "english": "Beast officer",
+    "romaji": "jūri",
+    "notation": "B3sR2fR3",
+    "promotion": "beast-bird",
+    "original": true
+  },
+  {
+    "id": "wind-dragon",
+    "name": "風龍",
+    "english": "Wind dragon",
+    "romaji": "fūryū",
+    "notation": "FfBbrBsR",
+    "promotion": "free-dragon",
+    "original": true
+  },
+  {
+    "id": "free-pup",
+    "name": "奔狗",
+    "english": "Free pup",
+    "romaji": "honku",
+    "notation": "FsR2vRfB",
+    "promotion": "free-dog",
+    "original": true
+  },
+  {
+    "id": "rushing-bird",
+    "name": "行鳥",
+    "english": "Rushing bird",
+    "romaji": "gyōchō",
+    "notation": "FsWfW2",
+    "promotion": "free-demon",
+    "original": true
+  },
+  {
+    "id": "old-kite",
+    "name": "古鵄",
+    "english": "Old kite",
+    "romaji": "kotetsu",
+    "notation": "B2sW",
+    "promotion": "tengu",
+    "original": true
+  },
+  {
+    "id": "peacock",
+    "name": "孔雀",
+    "english": "Peacock",
+    "romaji": "kujaku",
+    "notation": "bB2fB(fB-sB)",
+    "promotion": "tengu",
+    "original": true
+  },
+  {
+    "id": "water-dragon",
+    "name": "水龍",
+    "english": "Water dragon",
+    "romaji": "suiryū",
+    "notation": "RfB2bB4",
+    "promotion": "phoenix-master",
+    "original": true
+  },
+  {
+    "id": "fire-dragon",
+    "name": "火龍",
+    "english": "Fire dragon",
+    "romaji": "karyū",
+    "notation": "RbB2fB4",
+    "promotion": "kirin-master",
+    "original": true
+  },
+  {
+    "id": "copper-general",
+    "name": "銅将",
+    "english": "Copper general",
+    "romaji": "dōshō",
+    "notation": "vWfF",
+    "promotion": "side-mover",
+    "original": true
+  },
+  {
+    "id": "phoenix-master",
+    "name": "鳳師",
+    "english": "Phoenix master",
+    "romaji": "hōshi",
+    "notation": "vQfGsR3",
+    "promotion": null,
+    "original": true
+  },
+  {
+    "id": "kirin-master",
+    "name": "麟師",
+    "english": "Kirin master",
+    "romaji": "rinshi",
+    "notation": "vQvHsR3",
+    "promotion": null,
+    "original": true
+  },
+  {
+    "id": "silver-chariot",
+    "name": "銀車",
+    "english": "Silver chariot",
+    "romaji": "ginsha",
+    "notation": "bFfB2vR",
+    "promotion": "goose-wing",
+    "original": true
+  },
+  {
+    "id": "vertical-bear",
+    "name": "竪熊",
+    "english": "Vertical bear",
+    "romaji": "shuyū",
+    "notation": "bWsR2fR",
+    "promotion": "free-bear",
+    "original": true
+  },
+  {
+    "id": "cassia-horse",
+    "name": "桂馬",
+    "english": "Cassia horse",
+    "romaji": "keima",
+    "notation": "ffN",
+    "promotion": "side-soldier",
+    "original": true
+  },
+  {
+    "id": "pig-general",
+    "name": "豚将",
+    "english": "Pig general",
+    "romaji": "tonshō",
+    "notation": "bR2fB4",
+    "promotion": "free-pig",
+    "original": true
+  },
+  {
+    "id": "chicken-general",
+    "name": "鶏将",
+    "english": "Chicken general",
+    "romaji": "keishō",
+    "notation": "bFfR4",
+    "promotion": "free-chicken",
+    "original": true
+  },
+  {
+    "id": "pup-general",
+    "name": "狗将",
+    "english": "Pup general",
+    "romaji": "kushō",
+    "notation": "bFfR4",
+    "promotion": "free-pup",
+    "original": true
+  },
+  {
+    "id": "horse-general",
+    "name": "馬将",
+    "english": "Horse general",
+    "romaji": "bashō",
+    "notation": "fFbWfR3",
+    "promotion": "free-horse",
+    "original": true
+  },
+  {
+    "id": "ox-general",
+    "name": "牛将",
+    "english": "Ox general",
+    "romaji": "gyūshō",
+    "notation": "fFbWfR3",
+    "promotion": "free-ox",
+    "original": true
+  },
+  {
+    "id": "center-standard",
+    "name": "中旗",
+    "english": "Center standard",
+    "romaji": "chūki",
+    "notation": "B3R",
+    "promotion": "front-standard",
+    "original": true
+  },
+  {
+    "id": "side-boar",
+    "name": "横猪",
+    "english": "Side boar",
+    "romaji": "ōcho",
+    "notation": "KsR",
+    "promotion": "free-boar",
+    "original": true
+  },
+  {
+    "id": "silver-rabbit",
+    "name": "銀兎",
+    "english": "Silver rabbit",
+    "romaji": "ginto",
+    "notation": "fB2bB",
+    "promotion": "whale",
+    "original": true
+  },
+  {
+    "id": "gold-stag",
+    "name": "金鹿",
+    "english": "Gold stag",
+    "romaji": "konroku",
+    "notation": "fBbB2",
+    "promotion": "white-foal",
+    "original": true
+  },
+  {
+    "id": "lion",
+    "name": "獅子",
+    "english": "Lion",
+    "romaji": "shishi",
+    "notation": "KDAN(cK-bK)",
+    "promotion": "furious-fiend",
+    "original": true
+  },
+  {
+    "id": "fowl-cadet",
+    "name": "禽曹",
+    "english": "Fowl cadet",
+    "romaji": "kinsō",
+    "notation": "B3fsR3",
+    "promotion": "fowl-officer",
+    "original": true
+  },
+  {
+    "id": "great-stag",
+    "name": "大鹿",
+    "english": "Great stag",
+    "romaji": "dairoku",
+    "notation": "RfAbB2",
+    "promotion": "free-stag",
+    "original": true
+  },
+  {
+    "id": "fierce-dragon",
+    "name": "猛龍",
+    "english": "Fierce dragon",
+    "romaji": "mōryū",
+    "notation": "W2((cBcdB)-B), ignoring capturing restrictions",
+    "promotion": "great-dragon",
+    "original": true
+  },
+  {
+    "id": "woodland-demon",
+    "name": "林鬼",
+    "english": "Woodland demon",
+    "romaji": "rinki",
+    "notation": "sR2bB2vRfB",
+    "promotion": "stone-peng",
+    "original": true
+  },
+  {
+    "id": "vice-general",
+    "name": "副将",
+    "english": "Vice general",
+    "romaji": "fukushō",
+    "notation": "D((cBcdB)-B), ignoring capturing restrictions",
+    "promotion": "great-general",
+    "original": true
+  },
+  {
+    "id": "stone-chariot",
+    "name": "石車",
+    "english": "Stone chariot",
+    "romaji": "sekisha",
+    "notation": "fFsR2vR",
+    "promotion": "walking-heron",
+    "original": true
+  },
+  {
+    "id": "cloud-eagle",
+    "name": "雲鷲",
+    "english": "Cloud eagle",
+    "romaji": "unjū",
+    "notation": "sWfF3vWW",
+    "promotion": "strong-eagle",
+    "original": true
+  },
+  {
+    "id": "angle-mover",
+    "name": "角行",
+    "english": "Angle mover",
+    "romaji": "kakugyō",
+    "notation": "B",
+    "promotion": "dragon-horse",
+    "original": true
+  },
+  {
+    "id": "flying-chariot",
+    "name": "飛車",
+    "english": "Flying chariot",
+    "romaji": "hisha",
+    "notation": "R",
+    "promotion": "dragon-king",
+    "original": true
+  },
+  {
+    "id": "side-wolf",
+    "name": "横狼",
+    "english": "Side wolf",
+    "romaji": "ōrō",
+    "notation": "flFbrFsR",
+    "promotion": "free-wolf",
+    "original": true
+  },
+  {
+    "id": "flying-cat",
+    "name": "飛猫",
+    "english": "Flying cat",
+    "romaji": "hibyō",
+    "notation": "bWbFfsHfG",
+    "promotion": "flying-chariot",
+    "original": true
+  },
+  {
+    "id": "mountain-hawk",
+    "name": "山鷹",
+    "english": "Mountain hawk",
+    "romaji": "san'ō",
+    "notation": "fDbB2RfB",
+    "promotion": "horned-hawk",
+    "original": true
+  },
+  {
+    "id": "vertical-tiger",
+    "name": "竪虎",
+    "english": "Vertical tiger",
+    "romaji": "shuko",
+    "notation": "fRbR2",
+    "promotion": "free-tiger",
+    "original": true
+  },
+  {
+    "id": "soldier",
+    "name": "兵士",
+    "english": "Soldier",
+    "romaji": "heishi",
+    "notation": "R",
+    "promotion": "cavalier",
+    "original": true
+  },
+  {
+    "id": "little-standard",
+    "name": "小旗",
+    "english": "Little standard",
+    "romaji": "shōki",
+    "notation": "RfB2bF",
+    "promotion": "rear-standard",
+    "original": true
+  },
+  {
+    "id": "cloud-dragon",
+    "name": "雲龍",
+    "english": "Cloud dragon",
+    "romaji": "unryū",
+    "notation": "BWbR",
+    "promotion": "great-dragon",
+    "original": true
+  },
+  {
+    "id": "copper-chariot",
+    "name": "銅車",
+    "english": "Copper chariot",
+    "romaji": "dōsha",
+    "notation": "fB3vR",
+    "promotion": "copper-elephant",
+    "original": true
+  },
+  {
+    "id": "running-chariot",
+    "name": "走車",
+    "english": "Running chariot",
+    "romaji": "sōsha",
+    "notation": "R",
+    "promotion": "cannon-chariot",
+    "original": true
+  },
+  {
+    "id": "ram-s-head-soldier",
+    "name": "羊兵",
+    "english": "Ram's-head soldier",
+    "romaji": "yōhei",
+    "notation": "bWfB",
+    "promotion": "tiger-soldier",
+    "original": true
+  },
+  {
+    "id": "fierce-ox",
+    "name": "猛牛",
+    "english": "Fierce ox",
+    "romaji": "mōgyū",
+    "notation": "vWfB",
+    "promotion": "flying-ox",
+    "original": true
+  },
+  {
+    "id": "great-dragon",
+    "name": "大龍",
+    "english": "Great dragon",
+    "romaji": "dairyū",
+    "notation": "BvR3",
+    "promotion": "ancient-dragon",
+    "original": true
+  },
+  {
+    "id": "gold-bird",
+    "name": "金翅",
+    "english": "Gold bird",
+    "romaji": "kinshi",
+    "notation": "bF3sW3vF(f(mpFF)3-FF)",
+    "promotion": "free-bird",
+    "original": true
+  },
+  {
+    "id": "dark-spirit",
+    "name": "無明",
+    "english": "Dark spirit",
+    "romaji": "mumyō",
+    "notation": "WfrFbF",
+    "promotion": "buddhist-spirit",
+    "original": true
+  },
+  {
+    "id": "deva",
+    "name": "提婆",
+    "english": "Deva",
+    "romaji": "daiba",
+    "notation": "WflFbF",
+    "promotion": "king-of-teachings",
+    "original": true
+  },
+  {
+    "id": "wood-chariot",
+    "name": "木車",
+    "english": "Wood chariot",
+    "romaji": "mokusha",
+    "notation": "flFbrFvR",
+    "promotion": "wind-snapping-turtle",
+    "original": true
+  },
+  {
+    "id": "white-foal",
+    "name": "白駒",
+    "english": "White foal",
+    "romaji": "hakku",
+    "notation": "vRfB",
+    "promotion": "great-foal",
+    "original": true
+  },
+  {
+    "id": "howling-dog-left",
+    "name": "𠵇犬",
+    "english": "Howling dog (left)",
+    "romaji": "kiken",
+    "notation": "bWfR",
+    "promotion": "left-dog",
+    "original": true
+  },
+  {
+    "id": "howling-dog-right",
+    "name": "𠵇犬",
+    "english": "Howling dog (right)",
+    "romaji": "kiken",
+    "notation": "bWfR",
+    "promotion": "right-dog",
+    "original": true
+  },
+  {
+    "id": "side-mover",
+    "name": "横行",
+    "english": "Side mover",
+    "romaji": "ōgyō",
+    "notation": "WsR",
+    "promotion": "free-boar",
+    "original": true
+  },
+  {
+    "id": "prancing-stag",
+    "name": "踊鹿",
+    "english": "Prancing stag",
+    "romaji": "yōroku",
+    "notation": "vWsW2fF",
+    "promotion": "square-mover",
+    "original": true
+  },
+  {
+    "id": "water-ox",
+    "name": "水牛",
+    "english": "Water ox",
+    "romaji": "suigyū",
+    "notation": "vR2sQ",
+    "promotion": "great-dream-eater",
+    "original": true
+  },
+  {
+    "id": "fierce-leopard",
+    "name": "猛豹",
+    "english": "Fierce leopard",
+    "romaji": "mōhyō",
+    "notation": "vK",
+    "promotion": "angle-mover",
+    "original": true
+  },
+  {
+    "id": "fierce-eagle",
+    "name": "猛鷲",
+    "english": "Fierce eagle",
+    "romaji": "mōjū",
+    "notation": "B2fsW",
+    "promotion": "flying-eagle",
+    "original": true
+  },
+  {
+    "id": "flying-dragon",
+    "name": "飛龍",
+    "english": "Flying dragon",
+    "romaji": "hiryū",
+    "notation": "A",
+    "promotion": "dragon-king",
+    "original": true
+  },
+  {
+    "id": "poisonous-serpent",
+    "name": "毒蛇",
+    "english": "Poisonous serpent",
+    "romaji": "dokuja",
+    "notation": "sfW2bW1fF",
+    "promotion": "hook-mover",
+    "original": true
+  },
+  {
+    "id": "flying-goose",
+    "name": "鳫飛",
+    "english": "Flying goose",
+    "romaji": "ganhi",
+    "notation": "vWfF",
+    "promotion": "swallow-s-wings",
+    "original": true
+  },
+  {
+    "id": "strutting-crow",
+    "name": "烏行",
+    "english": "Strutting crow",
+    "romaji": "ukō",
+    "notation": "fWbF",
+    "promotion": "flying-hawk",
+    "original": true
+  },
+  {
+    "id": "blind-dog",
+    "name": "盲犬",
+    "english": "Blind dog",
+    "romaji": "mōken",
+    "notation": "fFbsW",
+    "promotion": "fierce-stag",
+    "original": true
+  },
+  {
+    "id": "water-general",
+    "name": "水将",
+    "english": "Water general",
+    "romaji": "suishō",
+    "notation": "fB3vW",
+    "promotion": "vice-general",
+    "original": true
+  },
+  {
+    "id": "fire-general",
+    "name": "火将",
+    "english": "Fire general",
+    "romaji": "kashō",
+    "notation": "fFvR3",
+    "promotion": "great-general",
+    "original": true
+  },
+  {
+    "id": "phoenix",
+    "name": "鳳凰",
+    "english": "Phoenix",
+    "romaji": "hōō",
+    "notation": "WA",
+    "promotion": "gold-bird",
+    "original": true
+  },
+  {
+    "id": "kirin",
+    "name": "麒麟",
+    "english": "Kirin",
+    "romaji": "kirin",
+    "notation": "FvWsD",
+    "promotion": "gold-bird",
+    "original": true
+  },
+  {
+    "id": "hook-mover",
+    "name": "鉤行",
+    "english": "Hook mover",
+    "romaji": "kōgyō",
+    "notation": "R(R-sR)",
+    "promotion": null,
+    "original": true
+  },
+  {
+    "id": "little-turtle",
+    "name": "小亀",
+    "english": "Little turtle",
+    "romaji": "shōki",
+    "notation": "vQsR2vD",
+    "promotion": "treasure-turtle",
+    "original": true
+  },
+  {
+    "id": "great-turtle",
+    "name": "大亀",
+    "english": "Great turtle",
+    "romaji": "daiki",
+    "notation": "vQvHsR3",
+    "promotion": "spirit-turtle",
+    "original": true
+  },
+  {
+    "id": "capricorn",
+    "name": "摩羯",
+    "english": "Capricorn",
+    "romaji": "makatsu",
+    "notation": "B(B-sB). If the capricorn can also move one square orthogonally, the notation can be represented as WB(B-sB)",
+    "promotion": "hook-mover",
+    "original": true
+  },
+  {
+    "id": "tile-chariot",
+    "name": "瓦車",
+    "english": "Tile chariot",
+    "romaji": "gasha",
+    "notation": "frFblFvR",
+    "promotion": "running-tile",
+    "original": true
+  },
+  {
+    "id": "vertical-wolf",
+    "name": "竪狼",
+    "english": "Vertical wolf",
+    "romaji": "shurō",
+    "notation": "sWbR3fR",
+    "promotion": "running-wolf",
+    "original": true
+  },
+  {
+    "id": "side-ox",
+    "name": "横牛",
+    "english": "Side ox",
+    "romaji": "ōgyū",
+    "notation": "frFblFsR",
+    "promotion": "flying-ox",
+    "original": true
+  },
+  {
+    "id": "donkey",
+    "name": "驢馬",
+    "english": "Donkey",
+    "romaji": "roba",
+    "notation": "R2",
+    "promotion": "ceramic-dove",
+    "original": true
+  },
+  {
+    "id": "flying-horse",
+    "name": "馬麟",
+    "english": "Flying horse",
+    "romaji": "barin",
+    "notation": "B2",
+    "promotion": "free-king",
+    "original": true
+  },
+  {
+    "id": "fierce-bear",
+    "name": "猛熊",
+    "english": "Fierce bear",
+    "romaji": "mōyū",
+    "notation": "fB2fsW",
+    "promotion": "great-bear",
+    "original": true
+  },
+  {
+    "id": "angry-boar",
+    "name": "嗔猪",
+    "english": "Angry boar",
+    "romaji": "shincho",
+    "notation": "sK",
+    "promotion": "free-boar",
+    "original": true
+  },
+  {
+    "id": "evil-wolf",
+    "name": "悪狼",
+    "english": "Evil wolf",
+    "romaji": "akurō",
+    "notation": "fFfsW",
+    "promotion": "poisonous-wolf",
+    "original": true
+  },
+  {
+    "id": "wind-horse",
+    "name": "風馬",
+    "english": "Wind horse",
+    "romaji": "fūma",
+    "notation": "fFbR2fR",
+    "promotion": "heavenly-horse",
+    "original": true
+  },
+  {
+    "id": "flying-chicken",
+    "name": "鶏飛",
+    "english": "Flying chicken",
+    "romaji": "keihi",
+    "notation": "sWfF",
+    "promotion": "raiding-hawk",
+    "original": true
+  },
+  {
+    "id": "old-monkey",
+    "name": "古猿",
+    "english": "Old monkey",
+    "romaji": "koen",
+    "notation": "FbW",
+    "promotion": "mountain-witch",
+    "original": true
+  },
+  {
+    "id": "huai-chicken",
+    "name": "淮鶏",
+    "english": "Huai chicken",
+    "romaji": "waikei",
+    "notation": "fFbsW",
+    "promotion": "wizard-stork",
+    "original": true
+  },
+  {
+    "id": "northern-barbarian",
+    "name": "北狄",
+    "english": "Northern barbarian",
+    "romaji": "hokuteki",
+    "notation": "vWsW2fF",
+    "promotion": "wooden-dove",
+    "original": true
+  },
+  {
+    "id": "southern-barbarian",
+    "name": "南蛮",
+    "english": "Southern barbarian",
+    "romaji": "nanban",
+    "notation": "vWsW2fF",
+    "promotion": "gold-bird",
+    "original": true
+  },
+  {
+    "id": "western-barbarian",
+    "name": "西戎",
+    "english": "Western barbarian",
+    "romaji": "seijū",
+    "notation": "sWvW2fF",
+    "promotion": "lion-dog",
+    "original": true
+  },
+  {
+    "id": "eastern-barbarian",
+    "name": "東夷",
+    "english": "Eastern barbarian",
+    "romaji": "tōi",
+    "notation": "sWvW2fF",
+    "promotion": "lion",
+    "original": true
+  },
+  {
+    "id": "fierce-stag",
+    "name": "猛鹿",
+    "english": "Fierce stag",
+    "romaji": "mōroku",
+    "notation": "FfW",
+    "promotion": "rushing-boar",
+    "original": true
+  },
+  {
+    "id": "fierce-wolf",
+    "name": "猛狼",
+    "english": "Fierce wolf",
+    "romaji": "mōrō",
+    "notation": "WfF",
+    "promotion": "bear-s-eyes",
+    "original": true
+  },
+  {
+    "id": "treacherous-fox",
+    "name": "隠狐",
+    "english": "Treacherous fox",
+    "romaji": "inko, onko",
+    "notation": "BAGvRvDvH(mAmG-B)(mvDmvH-R)",
+    "promotion": "mountain-crane",
+    "original": true
+  },
+  {
+    "id": "center-master",
+    "name": "中師",
+    "english": "Center master",
+    "romaji": "chūshi",
+    "notation": "sR3bB3vDfAvRfB",
+    "promotion": null,
+    "original": true
+  },
+  {
+    "id": "peng-master",
+    "name": "鵬師",
+    "english": "Peng master",
+    "romaji": "hōshi",
+    "notation": "fGbB5fBsR5vR",
+    "promotion": null,
+    "original": true
+  },
+  {
+    "id": "earth-chariot",
+    "name": "土車",
+    "english": "Earth chariot",
+    "romaji": "dosha",
+    "notation": "WvR",
+    "promotion": "reed-bird",
+    "original": true
+  },
+  {
+    "id": "vermillion-sparrow",
+    "name": "朱雀",
+    "english": "Vermillion sparrow",
+    "romaji": "suzaku",
+    "notation": "KflBbrB",
+    "promotion": "divine-sparrow",
+    "original": true
+  },
+  {
+    "id": "blue-dragon",
+    "name": "青龍",
+    "english": "Blue dragon",
+    "romaji": "seiryū",
+    "notation": "sR2vRfrB",
+    "promotion": "divine-dragon",
+    "original": true
+  },
+  {
+    "id": "enchanted-badger",
+    "name": "変狸",
+    "english": "Enchanted badger",
+    "romaji": "henri",
+    "notation": "R2",
+    "promotion": "ceramic-dove",
+    "original": true
+  },
+  {
+    "id": "horseman",
+    "name": "騎兵",
+    "english": "Horseman",
+    "romaji": "kihei",
+    "notation": "sR2vRfB",
+    "promotion": "cavalier",
+    "original": true
+  },
+  {
+    "id": "swooping-owl",
+    "name": "鴟行",
+    "english": "Swooping owl",
+    "romaji": "shigyō",
+    "notation": "fWbF",
+    "promotion": "cloud-eagle",
+    "original": true
+  },
+  {
+    "id": "climbing-monkey",
+    "name": "登猿",
+    "english": "Climbing monkey",
+    "romaji": "tōen",
+    "notation": "vWfF",
+    "promotion": "fierce-stag",
+    "original": true
+  },
+  {
+    "id": "cat-sword",
+    "name": "猫刀",
+    "english": "Cat sword",
+    "romaji": "myōjin",
+    "notation": "F",
+    "promotion": "dragon-horse",
+    "original": true
+  },
+  {
+    "id": "swallow-s-wings",
+    "name": "燕羽",
+    "english": "Swallow's wings",
+    "romaji": "en'u",
+    "notation": "WsR",
+    "promotion": "gliding-swallow",
+    "original": true
+  },
+  {
+    "id": "blind-monkey",
+    "name": "盲猿",
+    "english": "Blind monkey",
+    "romaji": "mōen",
+    "notation": "sK",
+    "promotion": "flying-stag",
+    "original": true
+  },
+  {
+    "id": "blind-tiger",
+    "name": "盲虎",
+    "english": "Blind tiger",
+    "romaji": "mōko",
+    "notation": "FbWsW",
+    "promotion": "flying-stag",
+    "original": true
+  },
+  {
+    "id": "ox-chariot",
+    "name": "牛車",
+    "english": "Ox chariot",
+    "romaji": "gissha",
+    "notation": "fR",
+    "promotion": "plodding-ox",
+    "original": true
+  },
+  {
+    "id": "side-flyer",
+    "name": "横飛",
+    "english": "Side flyer",
+    "romaji": "ōhi",
+    "notation": "FsR",
+    "promotion": "side-dragon",
+    "original": true
+  },
+  {
+    "id": "blind-bear",
+    "name": "盲熊",
+    "english": "Blind bear",
+    "romaji": "mōyū",
+    "notation": "sK",
+    "promotion": "flying-stag",
+    "original": true
+  },
+  {
+    "id": "old-rat",
+    "name": "老鼠",
+    "english": "Old rat",
+    "romaji": "rōso",
+    "notation": "fWbF",
+    "promotion": "mocking-bird",
+    "original": true
+  },
+  {
+    "id": "square-mover",
+    "name": "方行",
+    "english": "Square mover",
+    "romaji": "hōgyō",
+    "notation": "R",
+    "promotion": "strong-chariot",
+    "original": true
+  },
+  {
+    "id": "coiled-serpent",
+    "name": "蟠蛇",
+    "english": "Coiled serpent",
+    "romaji": "banja",
+    "notation": "vWbF",
+    "promotion": "coiled-dragon",
+    "original": true
+  },
+  {
+    "id": "reclining-dragon",
+    "name": "臥龍",
+    "english": "Reclining dragon",
+    "romaji": "garyū",
+    "notation": "W",
+    "promotion": "great-dragon",
+    "original": true
+  },
+  {
+    "id": "free-eagle",
+    "name": "奔鷲",
+    "english": "Free eagle",
+    "romaji": "honjū",
+    "notation": "QDAHGf(4,4)(cK-bK)(D-R)(A-B)(H-R)(G-B)(f(4,4)-B)",
+    "promotion": null,
+    "original": true
+  },
+  {
+    "id": "lion-hawk",
+    "name": "獅鷹",
+    "english": "Lion hawk",
+    "romaji": "shiō",
+    "notation": "WBDAN(cK-bK)",
+    "promotion": null,
+    "original": true
+  },
+  {
+    "id": "chariot-soldier",
+    "name": "車兵",
+    "english": "Chariot soldier",
+    "romaji": "shahei",
+    "notation": "sR2vQ",
+    "promotion": "heavenly-tetrarch-king",
+    "original": true
+  },
+  {
+    "id": "side-soldier",
+    "name": "横兵",
+    "english": "Side soldier",
+    "romaji": "ōhei",
+    "notation": "bWfR2sR",
+    "promotion": "water-ox",
+    "original": true
+  },
+  {
+    "id": "vertical-soldier",
+    "name": "竪兵",
+    "english": "Vertical soldier",
+    "romaji": "shuhei",
+    "notation": "bWsR2fR",
+    "promotion": "chariot-soldier",
+    "original": true
+  },
+  {
+    "id": "wind-general",
+    "name": "風将",
+    "english": "Wind general",
+    "romaji": "fūshō",
+    "notation": "fFbWfR3",
+    "promotion": "fierce-wind",
+    "original": true
+  },
+  {
+    "id": "river-general",
+    "name": "川将",
+    "english": "River general",
+    "romaji": "senshō",
+    "notation": "fFbWfR3",
+    "promotion": "huai-river",
+    "original": true
+  },
+  {
+    "id": "mountain-general",
+    "name": "山将",
+    "english": "Mountain general",
+    "romaji": "sanshō",
+    "notation": "fB3vW",
+    "promotion": "mount-tai",
+    "original": true
+  },
+  {
+    "id": "front-standard",
+    "name": "前旗",
+    "english": "Front standard",
+    "romaji": "zenki",
+    "notation": "B3R",
+    "promotion": "great-standard",
+    "original": true
+  },
+  {
+    "id": "horse-soldier",
+    "name": "馬兵",
+    "english": "Horse soldier",
+    "romaji": "bahei",
+    "notation": "bWsR3fQ",
+    "promotion": "running-horse",
+    "original": true
+  },
+  {
+    "id": "wood-general",
+    "name": "木将",
+    "english": "Wood general",
+    "romaji": "mokushō",
+    "notation": "fB2",
+    "promotion": "white-elephant",
+    "original": true
+  },
+  {
+    "id": "ox-soldier",
+    "name": "牛兵",
+    "english": "Ox soldier",
+    "romaji": "gyūhei",
+    "notation": "bWsR3fQ",
+    "promotion": "running-ox",
+    "original": true
+  },
+  {
+    "id": "earth-general",
+    "name": "土将",
+    "english": "Earth general",
+    "romaji": "doshō",
+    "notation": "vW",
+    "promotion": "white-elephant",
+    "original": true
+  },
+  {
+    "id": "boar-soldier",
+    "name": "猪兵",
+    "english": "Boar soldier",
+    "romaji": "chohei",
+    "notation": "bWsR2fQ",
+    "promotion": "running-boar",
+    "original": true
+  },
+  {
+    "id": "stone-general",
+    "name": "石将",
+    "english": "Stone general",
+    "romaji": "sekishō",
+    "notation": "fF",
+    "promotion": "white-elephant",
+    "original": true
+  },
+  {
+    "id": "leopard-soldier",
+    "name": "豹兵",
+    "english": "Leopard soldier",
+    "romaji": "hyōhei",
+    "notation": "bWsR2fQ",
+    "promotion": "running-leopard",
+    "original": true
+  },
+  {
+    "id": "tile-general",
+    "name": "瓦将",
+    "english": "Tile general",
+    "romaji": "gashō",
+    "notation": "bWfF",
+    "promotion": "white-elephant",
+    "original": true
+  },
+  {
+    "id": "bear-soldier",
+    "name": "熊兵",
+    "english": "Bear soldier",
+    "romaji": "yūhei",
+    "notation": "bWsR2fQ",
+    "promotion": "strong-bear",
+    "original": true
+  },
+  {
+    "id": "iron-general",
+    "name": "鉄将",
+    "english": "Iron general",
+    "romaji": "tesshō",
+    "notation": "fWfF",
+    "promotion": "white-elephant",
+    "original": true
+  },
+  {
+    "id": "great-standard",
+    "name": "大旗",
+    "english": "Great standard",
+    "romaji": "daiki",
+    "notation": "RbB3fB",
+    "promotion": null,
+    "original": true
+  },
+  {
+    "id": "great-master",
+    "name": "大師",
+    "english": "Great master",
+    "romaji": "daishi",
+    "notation": "fGfHbB5sR5fBvR",
+    "promotion": null,
+    "original": true
+  },
+  {
+    "id": "right-chariot",
+    "name": "右車",
+    "english": "Right chariot",
+    "romaji": "usha",
+    "notation": "rWfRflBbrB",
+    "promotion": "right-iron-chariot",
+    "original": true
+  },
+  {
+    "id": "left-chariot",
+    "name": "左車",
+    "english": "Left chariot",
+    "romaji": "sasha",
+    "notation": "lWfRfrBblB",
+    "promotion": "left-iron-chariot",
+    "original": true
+  },
+  {
+    "id": "side-monkey",
+    "name": "横猿",
+    "english": "Side monkey",
+    "romaji": "ōen",
+    "notation": "bWfFsR",
+    "promotion": "side-soldier",
+    "original": true
+  },
+  {
+    "id": "vertical-mover",
+    "name": "竪行",
+    "english": "Vertical mover",
+    "romaji": "shugyō",
+    "notation": "WvR",
+    "promotion": "flying-ox",
+    "original": true
+  },
+  {
+    "id": "flying-ox",
+    "name": "飛牛",
+    "english": "Flying ox",
+    "romaji": "higyū",
+    "notation": "BvR",
+    "promotion": "fire-ox",
+    "original": true
+  },
+  {
+    "id": "longbow-soldier",
+    "name": "弩兵",
+    "english": "Longbow soldier",
+    "romaji": "dohei",
+    "notation": "bWsR2fRfB5",
+    "promotion": "longbow-general",
+    "original": true
+  },
+  {
+    "id": "vertical-pup",
+    "name": "竪狗",
+    "english": "Vertical pup",
+    "romaji": "shuku",
+    "notation": "bFbWfR",
+    "promotion": "leopard-king",
+    "original": true
+  },
+  {
+    "id": "vertical-horse",
+    "name": "竪馬",
+    "english": "Vertical horse",
+    "romaji": "shuba",
+    "notation": "fFbWfR",
+    "promotion": "dragon-horse",
+    "original": true
+  },
+  {
+    "id": "cannon-soldier",
+    "name": "炮兵",
+    "english": "Cannon soldier",
+    "romaji": "hōhei",
+    "notation": "fB5bWsR3fR7",
+    "promotion": "cannon-general",
+    "original": true
+  },
+  {
+    "id": "dragon-horse",
+    "name": "龍馬",
+    "english": "Dragon horse",
+    "romaji": "ryūme",
+    "notation": "WB",
+    "promotion": "horned-hawk",
+    "original": true
+  },
+  {
+    "id": "dragon-king",
+    "name": "龍王",
+    "english": "Dragon king",
+    "romaji": "ryūō",
+    "notation": "RF",
+    "promotion": "flying-eagle",
+    "original": true
+  },
+  {
+    "id": "sword-soldier",
+    "name": "刀兵",
+    "english": "Sword soldier",
+    "romaji": "tōhei",
+    "notation": "bWfF",
+    "promotion": "sword-general",
+    "original": true
+  },
+  {
+    "id": "horned-hawk",
+    "name": "角鷹",
+    "english": "Horned hawk",
+    "romaji": "kakuō",
+    "notation": "QfD",
+    "promotion": "great-hawk",
+    "original": true
+  },
+  {
+    "id": "flying-eagle",
+    "name": "飛鷲",
+    "english": "Flying eagle",
+    "romaji": "hijū",
+    "notation": "QfA",
+    "promotion": "great-eagle",
+    "original": true
+  },
+  {
+    "id": "spear-soldier",
+    "name": "鎗兵",
+    "english": "Spear soldier",
+    "romaji": "sōhei",
+    "notation": "WfR",
+    "promotion": "spear-general",
+    "original": true
+  },
+  {
+    "id": "vertical-leopard",
+    "name": "竪豹",
+    "english": "Vertical leopard",
+    "romaji": "shuhyō",
+    "notation": "WfFfR",
+    "promotion": "great-leopard",
+    "original": true
+  },
+  {
+    "id": "fierce-tiger",
+    "name": "猛虎",
+    "english": "Fierce tiger",
+    "romaji": "mōko",
+    "notation": "fR",
+    "promotion": "great-tiger",
+    "original": true
+  },
+  {
+    "id": "crossbow-soldier",
+    "name": "弓兵",
+    "english": "Crossbow soldier",
+    "romaji": "kyūhei",
+    "notation": "fB3bWsR3fR5",
+    "promotion": "crossbow-general",
+    "original": true
+  },
+  {
+    "id": "roaring-dog",
+    "name": "吼犬",
+    "english": "Roaring dog",
+    "romaji": "kōken",
+    "notation": "HfGRbB3fB",
+    "promotion": "lion-dog",
+    "original": true
+  },
+  {
+    "id": "lion-dog",
+    "name": "狛犬",
+    "english": "Lion dog",
+    "romaji": "komainu",
+    "notation": "QHG",
+    "promotion": "great-elephant",
+    "original": true
+  },
+  {
+    "id": "dog",
+    "name": "犬",
+    "english": "Dog",
+    "romaji": "inu",
+    "notation": "fWfF",
+    "promotion": "multi-general",
+    "original": true
+  },
+  {
+    "id": "go-between",
+    "name": "仲人",
+    "english": "Go-between",
+    "romaji": "chūnin",
+    "notation": "vW",
+    "promotion": "drunken-elephant",
+    "original": true
+  },
+  {
+    "id": "pawn",
+    "name": "歩兵",
+    "english": "Pawn",
+    "romaji": "fuhyō",
+    "notation": "fW",
+    "promotion": "gold-general",
+    "original": true
+  },
+  {
+    "id": "right-army",
+    "name": "右軍",
+    "english": "Right army",
+    "romaji": "ugun",
+    "notation": "KrQ",
+    "promotion": null,
+    "original": false
+  },
+  {
+    "id": "left-army",
+    "name": "左軍",
+    "english": "Left army",
+    "romaji": "sagun",
+    "notation": "KlQ",
+    "promotion": null,
+    "original": false
+  },
+  {
+    "id": "free-fire",
+    "name": "奔火",
+    "english": "Free fire",
+    "romaji": "honka",
+    "notation": "sQvR5",
+    "promotion": null,
+    "original": false
+  },
+  {
+    "id": "great-whale",
+    "name": "大鯨",
+    "english": "Great whale",
+    "romaji": "daigei",
+    "notation": "BvR",
+    "promotion": null,
+    "original": false
+  },
+  {
+    "id": "divine-tiger",
+    "name": "神虎",
+    "english": "Divine tiger",
+    "romaji": "shinko",
+    "notation": "bR2fsRflB",
+    "promotion": null,
+    "original": false
+  },
+  {
+    "id": "divine-turtle",
+    "name": "神亀",
+    "english": "Divine turtle",
+    "romaji": "shinki",
+    "notation": "KfrBbB",
+    "promotion": null,
+    "original": false
+  },
+  {
+    "id": "elephant-king",
+    "name": "象王",
+    "english": "Elephant king",
+    "romaji": "zōō",
+    "notation": "R2B",
+    "promotion": null,
+    "original": false
+  },
+  {
+    "id": "fowl",
+    "name": "禽鳥",
+    "english": "Fowl",
+    "romaji": "kinchō",
+    "notation": "BbR2sR3fR",
+    "promotion": null,
+    "original": false
+  },
+  {
+    "id": "thunder-runner",
+    "name": "雷走",
+    "english": "Thunder runner",
+    "romaji": "raisō",
+    "notation": "bsR4fQ",
+    "promotion": null,
+    "original": false
+  },
+  {
+    "id": "free-leopard",
+    "name": "奔豹",
+    "english": "Free leopard",
+    "romaji": "honpyō",
+    "notation": "BvR",
+    "promotion": null,
+    "original": false
+  },
+  {
+    "id": "free-serpent",
+    "name": "奔蛇",
+    "english": "Free serpent",
+    "romaji": "honja",
+    "notation": "vRbB",
+    "promotion": null,
+    "original": false
+  },
+  {
+    "id": "great-shark",
+    "name": "大鱗",
+    "english": "Great shark",
+    "romaji": "dairin",
+    "notation": "RbB2fB5",
+    "promotion": null,
+    "original": false
+  },
+  {
+    "id": "free-tiger",
+    "name": "奔虎",
+    "english": "Free tiger",
+    "romaji": "honko",
+    "notation": "BbsR",
+    "promotion": null,
+    "original": false
+  },
+  {
+    "id": "free-bear",
+    "name": "奔熊",
+    "english": "Free bear",
+    "romaji": "hon'yū",
+    "notation": "BvR",
+    "promotion": null,
+    "original": false
+  },
+  {
+    "id": "heavenly-tetrarch",
+    "name": "四天",
+    "english": "Heavenly tetrarch",
+    "romaji": "shiten",
+    "notation": "Q4",
+    "promotion": null,
+    "original": false
+  },
+  {
+    "id": "playful-parrot",
+    "name": "遊䳇",
+    "english": "Playful parrot",
+    "romaji": "yūmo",
+    "notation": "bB2fB3sR5vR",
+    "promotion": null,
+    "original": false
+  },
+  {
+    "id": "running-dragon",
+    "name": "走龍",
+    "english": "Running dragon",
+    "romaji": "sōryū",
+    "notation": "fsQbR5",
+    "promotion": null,
+    "original": false
+  },
+  {
+    "id": "free-stag",
+    "name": "奔鹿",
+    "english": "Free stag",
+    "romaji": "honroku",
+    "notation": "Q",
+    "promotion": null,
+    "original": false
+  },
+  {
+    "id": "free-wolf",
+    "name": "奔狼",
+    "english": "Free wolf",
+    "romaji": "honrō",
+    "notation": "fBfsR",
+    "promotion": null,
+    "original": false
+  },
+  {
+    "id": "rain-demon",
+    "name": "霖鬼",
+    "english": "Rain demon",
+    "romaji": "rinki",
+    "notation": "fR3sR2bB2bR(fmB-B)",
+    "promotion": null,
+    "original": false
+  },
+  {
+    "id": "flying-crocodile",
+    "name": "飛鰐",
+    "english": "Flying crocodile",
+    "romaji": "higaku",
+    "notation": "bB2fB3((cRcdR)-R), ignoring capturing restrictions",
+    "promotion": null,
+    "original": false
+  },
+  {
+    "id": "beast-bird",
+    "name": "獣鳥",
+    "english": "Beast bird",
+    "romaji": "jūchō",
+    "notation": "BbR2sR3fR",
+    "promotion": null,
+    "original": false
+  },
+  {
+    "id": "free-dragon",
+    "name": "奔龍",
+    "english": "Free dragon",
+    "romaji": "honryū",
+    "notation": "BbsR",
+    "promotion": null,
+    "original": false
+  },
+  {
+    "id": "free-dog",
+    "name": "奔犬",
+    "english": "Free dog",
+    "romaji": "honken",
+    "notation": "sR2bB2vRfB",
+    "promotion": null,
+    "original": false
+  },
+  {
+    "id": "goose-wing",
+    "name": "鴻翼",
+    "english": "Goose wing",
+    "romaji": "kōyoko",
+    "notation": "FsW3vWW",
+    "promotion": null,
+    "original": false
+  },
+  {
+    "id": "free-pig",
+    "name": "奔豚",
+    "english": "Free pig",
+    "romaji": "honton",
+    "notation": "FsR2vRfB",
+    "promotion": null,
+    "original": false
+  },
+  {
+    "id": "free-chicken",
+    "name": "奔鶏",
+    "english": "Free chicken",
+    "romaji": "honkei",
+    "notation": "sR2bB2vRfB",
+    "promotion": null,
+    "original": false
+  },
+  {
+    "id": "free-horse",
+    "name": "奔馬",
+    "english": "Free horse",
+    "romaji": "honba",
+    "notation": "FsR2vRfB",
+    "promotion": null,
+    "original": false
+  },
+  {
+    "id": "free-ox",
+    "name": "奔牛",
+    "english": "Free ox",
+    "romaji": "hongyū",
+    "notation": "FsR2vRfB",
+    "promotion": null,
+    "original": false
+  },
+  {
+    "id": "free-boar",
+    "name": "奔猪",
+    "english": "Free boar",
+    "romaji": "honcho",
+    "notation": "WfsRfB",
+    "promotion": null,
+    "original": false
+  },
+  {
+    "id": "furious-fiend",
+    "name": "奮迅",
+    "english": "Furious fiend",
+    "romaji": "funjin",
+    "notation": "Q3DAN(cK-bK)",
+    "promotion": null,
+    "original": false
+  },
+  {
+    "id": "stone-peng",
+    "name": "石鵬",
+    "english": "Stone peng",
+    "romaji": "sekihō",
+    "notation": "BsR5",
+    "promotion": null,
+    "original": false
+  },
+  {
+    "id": "walking-heron",
+    "name": "歩䳲",
+    "english": "Walking heron",
+    "romaji": "fushin",
+    "notation": "sR2fB2vR",
+    "promotion": null,
+    "original": false
+  },
+  {
+    "id": "strong-eagle",
+    "name": "勁鷲",
+    "english": "Strong eagle",
+    "romaji": "keijū",
+    "notation": "Q",
+    "promotion": null,
+    "original": false
+  },
+  {
+    "id": "cavalier",
+    "name": "騎士",
+    "english": "Cavalier",
+    "romaji": "kishi",
+    "notation": "RfB",
+    "promotion": null,
+    "original": false
+  },
+  {
+    "id": "copper-elephant",
+    "name": "銅象",
+    "english": "Copper elephant",
+    "romaji": "dōzō",
+    "notation": "KvR",
+    "promotion": null,
+    "original": false
+  },
+  {
+    "id": "cannon-chariot",
+    "name": "炮車",
+    "english": "Cannon chariot",
+    "romaji": "hōsha",
+    "notation": "WfBvR",
+    "promotion": null,
+    "original": false
+  },
+  {
+    "id": "tiger-soldier",
+    "name": "虎兵",
+    "english": "Tiger soldier",
+    "romaji": "kohei",
+    "notation": "bWfR2fB",
+    "promotion": null,
+    "original": false
+  },
+  {
+    "id": "ancient-dragon",
+    "name": "元龍",
+    "english": "Ancient dragon",
+    "romaji": "genryū, ganryū",
+    "notation": "B(v(mppR3)-R)",
+    "promotion": null,
+    "original": false
+  },
+  {
+    "id": "free-bird",
+    "name": "奔翅",
+    "english": "Free bird",
+    "romaji": "honshi",
+    "notation": "RbB3(f(mpB)3-B)",
+    "promotion": null,
+    "original": false
+  },
+  {
+    "id": "buddhist-spirit",
+    "name": "法性",
+    "english": "Buddhist spirit",
+    "romaji": "hōsei",
+    "notation": "QDAN(cK-bK)",
+    "promotion": null,
+    "original": false
+  },
+  {
+    "id": "king-of-teachings",
+    "name": "教王",
+    "english": "King of teachings",
+    "romaji": "kyōō",
+    "notation": "HG(H-R)(G-B)",
+    "promotion": null,
+    "original": false
+  },
+  {
+    "id": "wind-snapping-turtle",
+    "name": "風鼈",
+    "english": "Wind snapping turtle",
+    "romaji": "fūbetsu",
+    "notation": "fB2vR",
+    "promotion": null,
+    "original": false
+  },
+  {
+    "id": "great-foal",
+    "name": "大駒",
+    "english": "Great foal",
+    "romaji": "daiku",
+    "notation": "sR2vRfB",
+    "promotion": null,
+    "original": false
+  },
+  {
+    "id": "left-dog",
+    "name": "左犬",
+    "english": "Left dog",
+    "romaji": "saken",
+    "notation": "bWfRbrB",
+    "promotion": null,
+    "original": false
+  },
+  {
+    "id": "right-dog",
+    "name": "右犬",
+    "english": "Right dog",
+    "romaji": "uken",
+    "notation": "bWfRblB",
+    "promotion": null,
+    "original": false
+  },
+  {
+    "id": "great-dream-eater",
+    "name": "大獏",
+    "english": "Great dream-eater",
+    "romaji": "daibaku",
+    "notation": "QsH",
+    "promotion": null,
+    "original": false
+  },
+  {
+    "id": "flying-hawk",
+    "name": "飛鷹",
+    "english": "Flying hawk",
+    "romaji": "hiyō",
+    "notation": "BfW",
+    "promotion": null,
+    "original": false
+  },
+  {
+    "id": "treasure-turtle",
+    "name": "宝亀",
+    "english": "Treasure turtle",
+    "romaji": "hōki",
+    "notation": "QD",
+    "promotion": null,
+    "original": false
+  },
+  {
+    "id": "spirit-turtle",
+    "name": "霊亀",
+    "english": "Spirit turtle",
+    "romaji": "reiki",
+    "notation": "QH",
+    "promotion": null,
+    "original": false
+  },
+  {
+    "id": "running-tile",
+    "name": "走瓦",
+    "english": "Running tile",
+    "romaji": "sōga",
+    "notation": "vRsR2",
+    "promotion": null,
+    "original": false
+  },
+  {
+    "id": "great-bear",
+    "name": "大熊",
+    "english": "Great bear",
+    "romaji": "daiyū",
+    "notation": "WfQ",
+    "promotion": null,
+    "original": false
+  },
+  {
+    "id": "poisonous-wolf",
+    "name": "毒狼",
+    "english": "Poisonous wolf",
+    "romaji": "dokurō",
+    "notation": "K",
+    "promotion": null,
+    "original": false
+  },
+  {
+    "id": "heavenly-horse",
+    "name": "天馬",
+    "english": "Heavenly horse",
+    "romaji": "temma",
+    "notation": "vNfR",
+    "promotion": null,
+    "original": false
+  },
+  {
+    "id": "raiding-hawk",
+    "name": "延鷹",
+    "english": "Raiding hawk",
+    "romaji": "en'yō",
+    "notation": "fFsWfR",
+    "promotion": null,
+    "original": false
+  },
+  {
+    "id": "mountain-witch",
+    "name": "山母",
+    "english": "Mountain witch",
+    "romaji": "sanbo",
+    "notation": "BbR",
+    "promotion": null,
+    "original": false
+  },
+  {
+    "id": "wizard-stork",
+    "name": "仙",
+    "english": "Wizard stork",
+    "romaji": "senkaku",
+    "notation": "fBsbR",
+    "promotion": null,
+    "original": false
+  },
+  {
+    "id": "rushing-boar",
+    "name": "行猪",
+    "english": "Rushing boar",
+    "romaji": "gyōcho",
+    "notation": "fsK",
+    "promotion": null,
+    "original": false
+  },
+  {
+    "id": "bear-s-eyes",
+    "name": "熊眼",
+    "english": "Bear's eyes",
+    "romaji": "yūgan",
+    "notation": "K",
+    "promotion": null,
+    "original": false
+  },
+  {
+    "id": "mountain-crane",
+    "name": "山鶻",
+    "english": "Mountain crane",
+    "romaji": "sankotsu",
+    "notation": "QDAHG(4,0)(4,4)(D-R)(A-B)(H-R)(G-B)((4,0)-R)((4,4)-B)",
+    "promotion": null,
+    "original": false
+  },
+  {
+    "id": "reed-bird",
+    "name": "芦鳥",
+    "english": "Reed bird",
+    "romaji": "shakuchō",
+    "notation": "sR2bB2vR",
+    "promotion": null,
+    "original": false
+  },
+  {
+    "id": "divine-sparrow",
+    "name": "神雀",
+    "english": "Divine sparrow",
+    "romaji": "shinjaku",
+    "notation": "WfrFflBbB",
+    "promotion": null,
+    "original": false
+  },
+  {
+    "id": "divine-dragon",
+    "name": "神龍",
+    "english": "Divine dragon",
+    "romaji": "shinryū",
+    "notation": "lR2vrRfrB",
+    "promotion": null,
+    "original": false
+  },
+  {
+    "id": "gliding-swallow",
+    "name": "燕行",
+    "english": "Gliding swallow",
+    "romaji": "engyō",
+    "notation": "R",
+    "promotion": null,
+    "original": false
+  },
+  {
+    "id": "flying-stag",
+    "name": "飛鹿",
+    "english": "Flying stag",
+    "romaji": "hiroku",
+    "notation": "KvR",
+    "promotion": null,
+    "original": false
+  },
+  {
+    "id": "plodding-ox",
+    "name": "歬牛",
+    "english": "Plodding ox",
+    "romaji": "sengyū",
+    "notation": "FvR",
+    "promotion": null,
+    "original": false
+  },
+  {
+    "id": "mocking-bird",
+    "name": "古寺時鳥",
+    "english": "Mocking bird",
+    "romaji": "jichō",
+    "notation": "vRfB",
+    "promotion": null,
+    "original": false
+  },
+  {
+    "id": "strong-chariot",
+    "name": "強車",
+    "english": "Strong chariot",
+    "romaji": "kyōsha",
+    "notation": "RfB",
+    "promotion": null,
+    "original": false
+  },
+  {
+    "id": "coiled-dragon",
+    "name": "蟠龍",
+    "english": "Coiled dragon",
+    "romaji": "banryū",
+    "notation": "vRbB",
+    "promotion": null,
+    "original": false
+  },
+  {
+    "id": "heavenly-tetrarch-king",
+    "name": "四天王",
+    "english": "Heavenly tetrarch king",
+    "romaji": "shitennō",
+    "notation": "QDA(D-R)(A-B)",
+    "promotion": null,
+    "original": false
+  },
+  {
+    "id": "fierce-wind",
+    "name": "暴風",
+    "english": "Fierce wind",
+    "romaji": "bōfū",
+    "notation": "vQW",
+    "promotion": null,
+    "original": false
+  },
+  {
+    "id": "huai-river",
+    "name": "淮川",
+    "english": "Huai river",
+    "romaji": "waisen",
+    "notation": "WsQ",
+    "promotion": null,
+    "original": false
+  },
+  {
+    "id": "mount-tai",
+    "name": "泰山",
+    "english": "Mount Tai",
+    "romaji": "taisan",
+    "notation": "BfsR5",
+    "promotion": null,
+    "original": false
+  },
+  {
+    "id": "running-ox",
+    "name": "走牛",
+    "english": "Running ox",
+    "romaji": "sōgyū",
+    "notation": "bR2fsRfB",
+    "promotion": null,
+    "original": false
+  },
+  {
+    "id": "running-boar",
+    "name": "走猪",
+    "english": "Running boar",
+    "romaji": "sōcho",
+    "notation": "WvR",
+    "promotion": null,
+    "original": false
+  },
+  {
+    "id": "running-leopard",
+    "name": "走豹",
+    "english": "Running leopard",
+    "romaji": "sōhyō",
+    "notation": "fBfsR",
+    "promotion": null,
+    "original": false
+  },
+  {
+    "id": "strong-bear",
+    "name": "強熊",
+    "english": "Strong bear",
+    "romaji": "kyōyū",
+    "notation": "bR2fsQ",
+    "promotion": null,
+    "original": false
+  },
+  {
+    "id": "right-iron-chariot",
+    "name": "右鉄車",
+    "english": "Right iron chariot",
+    "romaji": "utessha",
+    "notation": "rWbBflB",
+    "promotion": null,
+    "original": false
+  },
+  {
+    "id": "left-iron-chariot",
+    "name": "左鉄車",
+    "english": "Left iron chariot",
+    "romaji": "satessha",
+    "notation": "lWbBfrB",
+    "promotion": null,
+    "original": false
+  },
+  {
+    "id": "fire-ox",
+    "name": "火牛",
+    "english": "Fire ox",
+    "romaji": "kagyū",
+    "notation": "vQW",
+    "promotion": null,
+    "original": false
+  },
+  {
+    "id": "longbow-general",
+    "name": "弩将",
+    "english": "Longbow general",
+    "romaji": "doshō",
+    "notation": "fBvRsR5",
+    "promotion": null,
+    "original": false
+  },
+  {
+    "id": "leopard-king",
+    "name": "豹王",
+    "english": "Leopard king",
+    "romaji": "hyōō",
+    "notation": "Q5",
+    "promotion": null,
+    "original": false
+  },
+  {
+    "id": "cannon-general",
+    "name": "炮将",
+    "english": "Cannon general",
+    "romaji": "hōshō",
+    "notation": "bR2sR3fQ",
+    "promotion": null,
+    "original": false
+  },
+  {
+    "id": "sword-general",
+    "name": "刀将",
+    "english": "Sword general",
+    "romaji": "tōshō",
+    "notation": "bWfQ3",
+    "promotion": null,
+    "original": false
+  },
+  {
+    "id": "great-hawk",
+    "name": "大鷹",
+    "english": "Great hawk",
+    "romaji": "daiō",
+    "notation": "QfD(fD-R)",
+    "promotion": null,
+    "original": false
+  },
+  {
+    "id": "great-eagle",
+    "name": "大鷲",
+    "english": "Great eagle",
+    "romaji": "daijū",
+    "notation": "Q(fA-B)",
+    "promotion": null,
+    "original": false
+  },
+  {
+    "id": "spear-general",
+    "name": "鎗将",
+    "english": "Spear general",
+    "romaji": "sōshō",
+    "notation": "bR2sR3fR",
+    "promotion": null,
+    "original": false
+  },
+  {
+    "id": "great-leopard",
+    "name": "大豹",
+    "english": "Great leopard",
+    "romaji": "daihyō",
+    "notation": "bWsR2fRfB3",
+    "promotion": null,
+    "original": false
+  },
+  {
+    "id": "great-tiger",
+    "name": "大虎",
+    "english": "Great tiger",
+    "romaji": "daiko",
+    "notation": "WbsR",
+    "promotion": null,
+    "original": false
+  },
+  {
+    "id": "crossbow-general",
+    "name": "弓将",
+    "english": "Crossbow general",
+    "romaji": "kyūshō",
+    "notation": "bR2sR3fRfB5",
+    "promotion": null,
+    "original": false
+  },
+  {
+    "id": "great-elephant",
+    "name": "大象",
+    "english": "Great elephant",
+    "romaji": "taizō",
+    "notation": "fB3(pR-R)(b(mpB)3-B)",
+    "promotion": null,
+    "original": false
+  },
+  {
+    "id": "multi-general",
+    "name": "雜将",
+    "english": "Multi general",
+    "romaji": "suishō",
+    "notation": "vRfB",
+    "promotion": null,
+    "original": false
+  }
+]
